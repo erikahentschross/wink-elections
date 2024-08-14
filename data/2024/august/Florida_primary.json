@@ -1,0 +1,1463 @@
+{
+    "generated": "2024-08-13T14:25:07.7046607Z",
+    "ElectionPlaylist": {
+      "id": 13,
+      "name": "820 State Races",
+      "contest": [
+        {
+          "id": 628,
+          "event": {
+            "id": 13,
+            "date": "2024-08-20T00:00:00",
+            "name": "Florida State Primary 2024",
+            "nameShort": "Florida State Primary 2024",
+            "type": "General Election",
+            "notes": null,
+            "timeZone": "Eastern Standard Time",
+            "contestSortTypeCode": "",
+            "partySortTypeCode": "",
+            "modifiedDate": "2024-07-30T14:52:47-04:00",
+            "genericHeadshot": {
+              "media": null
+            }
+          },
+          "office": {
+            "id": 230,
+            "name": "U.S. Senate - GOP Primary Class I",
+            "nameShort": "U.S. Senate - GOP Primary Class I",
+            "notes": null,
+            "modifiedDate": "2024-07-30T14:52:48-04:00"
+          },
+          "area": {
+            "id": 16,
+            "name": "Florida",
+            "nameShort": "FL",
+            "notes": null,
+            "code": null,
+            "modifiedDate": "2024-02-27T15:59:52-05:00"
+          },
+          "contestType": "Primary",
+          "notes": null,
+          "positions": 1,
+          "polls": {
+            "total": 5628,
+            "reported": 5628,
+            "reportedPercent": "100",
+            "closingTime": null,
+            "isClosed": null
+          },
+          "runoffEligible": false,
+          "isRunoff": false,
+          "dbVotesPercent": "99",
+          "dbVotesPercentPrevious": "",
+          "sortType": "",
+          "modifiedDate": "2024-07-30T14:52:51-04:00",
+          "choice": [
+            {
+              "id": 1246,
+              "elected": true,
+              "name": "Columbus, John",
+              "name2": "John Columbus",
+              "firstName": "John",
+              "lastName": "Columbus",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 151,
+                  "name": "JOHN COLUMBUS",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/151.png",
+                  "fileName": "JOHN COLUMBUS.png",
+                  "extension": "png",
+                  "length": 291478,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:54-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. Senate - GOP Primary Class I/Columbus, John",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 1430943,
+                "votePercent": 66.05
+              },
+              "position": 1,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 1247,
+              "elected": false,
+              "name": "Gross, Keith",
+              "name2": "Keith Gross",
+              "firstName": "Keith",
+              "lastName": "Gross",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 153,
+                  "name": "KEITH GROSS",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/153.png",
+                  "fileName": "KEITH GROSS.png",
+                  "extension": "png",
+                  "length": 360794,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:54-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. Senate - GOP Primary Class I/Gross, Keith",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 496611,
+                "votePercent": 22.92
+              },
+              "position": 2,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 1248,
+              "elected": false,
+              "name": "Scott, Rick",
+              "name2": "Rick Scott",
+              "firstName": "Rick",
+              "lastName": "Scott",
+              "incumbent": true,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 159,
+                  "name": "RICK SCOTT",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/159.png",
+                  "fileName": "RICK SCOTT.png",
+                  "extension": "png",
+                  "length": 416369,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:56-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. Senate - GOP Primary Class I/Scott, Rick",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 238757,
+                "votePercent": 11.02
+              },
+              "position": 3,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1079,
+          "event": {
+            "id": 13,
+            "date": "2024-08-20T00:00:00",
+            "name": "Florida State Primary 2024",
+            "nameShort": "Florida State Primary 2024",
+            "type": "General Election",
+            "notes": null,
+            "timeZone": "Eastern Standard Time",
+            "contestSortTypeCode": "",
+            "partySortTypeCode": "",
+            "modifiedDate": "2024-07-30T14:52:47-04:00",
+            "genericHeadshot": {
+              "media": null
+            }
+          },
+          "office": {
+            "id": 374,
+            "name": "U.S. Senate - DEM Primary Class I",
+            "nameShort": "U.S. Senate - DEM Primary Class I",
+            "notes": null,
+            "modifiedDate": "2024-07-30T14:52:49-04:00"
+          },
+          "area": {
+            "id": 16,
+            "name": "Florida",
+            "nameShort": "FL",
+            "notes": null,
+            "code": null,
+            "modifiedDate": "2024-02-27T15:59:52-05:00"
+          },
+          "contestType": "Primary",
+          "notes": null,
+          "positions": 1,
+          "polls": {
+            "total": 5628,
+            "reported": 5628,
+            "reportedPercent": "100",
+            "closingTime": null,
+            "isClosed": null
+          },
+          "runoffEligible": false,
+          "isRunoff": false,
+          "dbVotesPercent": "99",
+          "dbVotesPercentPrevious": "",
+          "sortType": "",
+          "modifiedDate": "2024-07-30T14:52:52-04:00",
+          "choice": [
+            {
+              "id": 1976,
+              "elected": true,
+              "name": "Campbell, Stanley",
+              "name2": "Stanley Campbell",
+              "firstName": "Stanley",
+              "lastName": "Campbell",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 162,
+                  "name": "STANLEY CAMPBELL",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/162.png",
+                  "fileName": "STANLEY CAMPBELL.png",
+                  "extension": "png",
+                  "length": 369029,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:56-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. Senate - DEM Primary Class I/Campbell, Stanley",
+              "notes": null,
+              "party": {
+                "name": "Democrat",
+                "nameShort": "DEM",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 1364434,
+                "votePercent": 62.98
+              },
+              "position": 1,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 1977,
+              "elected": false,
+              "name": "Joseph, Rod",
+              "name2": "Rod Joseph",
+              "firstName": "Rod",
+              "lastName": "Joseph",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 160,
+                  "name": "ROD JOSEPH",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/160.png",
+                  "fileName": "ROD JOSEPH.png",
+                  "extension": "png",
+                  "length": 375471,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:56-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. Senate - DEM Primary Class I/Joseph, Rod",
+              "notes": null,
+              "party": {
+                "name": "Democrat",
+                "nameShort": "DEM",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 427004,
+                "votePercent": 19.71
+              },
+              "position": 2,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 1978,
+              "elected": false,
+              "name": "Mucarsel-Powell, Debbie",
+              "name2": "Debbie Mucarsel-Powell",
+              "firstName": "Debbie",
+              "lastName": "Mucarsel-Powell",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 144,
+                  "name": "DEBBIE MUCARSEL-POWELL",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/144.png",
+                  "fileName": "DEBBIE MUCARSEL-POWELL.png",
+                  "extension": "png",
+                  "length": 481265,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:53-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. Senate - DEM Primary Class I/Mucarsel-Powell, Debbie",
+              "notes": null,
+              "party": {
+                "name": "Democrat",
+                "nameShort": "DEM",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 218188,
+                "votePercent": 10.07
+              },
+              "position": 3,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 1979,
+              "elected": false,
+              "name": "Rush, Brian",
+              "name2": "Brian Rush",
+              "firstName": "Brian",
+              "lastName": "Rush",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 141,
+                  "name": "BRIAN RUSH",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/141.png",
+                  "fileName": "BRIAN RUSH.png",
+                  "extension": "png",
+                  "length": 245276,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:53-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. Senate - DEM Primary Class I/Rush, Brian",
+              "notes": null,
+              "party": {
+                "name": "Democrat",
+                "nameShort": "DEM",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 156685,
+                "votePercent": 7.23
+              },
+              "position": 4,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            }
+          ]
+        },
+        {
+          "id": 735,
+          "event": {
+            "id": 13,
+            "date": "2024-08-20T00:00:00",
+            "name": "Florida State Primary 2024",
+            "nameShort": "Florida State Primary 2024",
+            "type": "General Election",
+            "notes": null,
+            "timeZone": "Eastern Standard Time",
+            "contestSortTypeCode": "",
+            "partySortTypeCode": "",
+            "modifiedDate": "2024-07-30T14:52:47-04:00",
+            "genericHeadshot": {
+              "media": null
+            }
+          },
+          "office": {
+            "id": 246,
+            "name": "State House - GOP Primary District 81",
+            "nameShort": "State House - GOP Primary District 81",
+            "notes": null,
+            "modifiedDate": "2024-07-30T14:52:48-04:00"
+          },
+          "area": {
+            "id": 16,
+            "name": "Florida",
+            "nameShort": "FL",
+            "notes": null,
+            "code": null,
+            "modifiedDate": "2024-02-27T15:59:52-05:00"
+          },
+          "contestType": "Primary",
+          "notes": null,
+          "positions": 1,
+          "polls": {
+            "total": 71,
+            "reported": 71,
+            "reportedPercent": "100",
+            "closingTime": null,
+            "isClosed": null
+          },
+          "runoffEligible": false,
+          "isRunoff": false,
+          "dbVotesPercent": "99",
+          "dbVotesPercentPrevious": "",
+          "sortType": "",
+          "modifiedDate": "2024-07-30T14:52:51-04:00",
+          "choice": [
+            {
+              "id": 1511,
+              "elected": true,
+              "name": "Benarroch, Yvette",
+              "name2": "Yvette Benarroch",
+              "firstName": "Yvette",
+              "lastName": "Benarroch",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 169,
+                  "name": "YVETTE BENARROCH",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/169.png",
+                  "fileName": "YVETTE BENARROCH.png",
+                  "extension": "png",
+                  "length": 311806,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:57-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/State House - GOP Primary District 81/Benarroch, Yvette",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 1122,
+                "votePercent": 70.34
+              },
+              "position": 1,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 1512,
+              "elected": false,
+              "name": "Folley, Greg",
+              "name2": "Greg Folley",
+              "firstName": "Greg",
+              "lastName": "Folley",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 149,
+                  "name": "GREG FOLLEY",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/149.png",
+                  "fileName": "GREG FOLLEY.png",
+                  "extension": "png",
+                  "length": 370369,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:54-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/State House - GOP Primary District 81/Folley, Greg",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 473,
+                "votePercent": 29.66
+              },
+              "position": 2,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            }
+          ]
+        },
+        {
+          "id": 696,
+          "event": {
+            "id": 13,
+            "date": "2024-08-20T00:00:00",
+            "name": "Florida State Primary 2024",
+            "nameShort": "Florida State Primary 2024",
+            "type": "General Election",
+            "notes": null,
+            "timeZone": "Eastern Standard Time",
+            "contestSortTypeCode": "",
+            "partySortTypeCode": "",
+            "modifiedDate": "2024-07-30T14:52:47-04:00",
+            "genericHeadshot": {
+              "media": null
+            }
+          },
+          "office": {
+            "id": 231,
+            "name": "U.S. House - GOP Primary District 26",
+            "nameShort": "U.S. House - GOP Primary District 26",
+            "notes": null,
+            "modifiedDate": "2024-07-30T14:52:48-04:00"
+          },
+          "area": {
+            "id": 16,
+            "name": "Florida",
+            "nameShort": "FL",
+            "notes": null,
+            "code": null,
+            "modifiedDate": "2024-02-27T15:59:52-05:00"
+          },
+          "contestType": "Primary",
+          "notes": null,
+          "positions": 1,
+          "polls": {
+            "total": 248,
+            "reported": 248,
+            "reportedPercent": "100",
+            "closingTime": null,
+            "isClosed": null
+          },
+          "runoffEligible": false,
+          "isRunoff": false,
+          "dbVotesPercent": "99",
+          "dbVotesPercentPrevious": "",
+          "sortType": "",
+          "modifiedDate": "2024-07-30T14:52:51-04:00",
+          "choice": [
+            {
+              "id": 1450,
+              "elected": true,
+              "name": "Diaz-Balart, Mario",
+              "name2": "Mario Diaz-Balart",
+              "firstName": "Mario",
+              "lastName": "Diaz-Balart",
+              "incumbent": true,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 156,
+                  "name": "MARIO DIAZ BALART",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/156.png",
+                  "fileName": "MARIO DIAZ BALART.png",
+                  "extension": "png",
+                  "length": 384244,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": "",
+                  "savedPath": "",
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-08-02T21:50:42-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. House - GOP Primary District 26/Diaz-Balart, Mario",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 16431,
+                "votePercent": 63.18
+              },
+              "position": 1,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 1451,
+              "elected": false,
+              "name": "Evans, Richard",
+              "name2": "Richard Evans",
+              "firstName": "Richard",
+              "lastName": "Evans",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 158,
+                  "name": "RICHARD EVANS",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/158.png",
+                  "fileName": "RICHARD EVANS.png",
+                  "extension": "png",
+                  "length": 377574,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:55-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. House - GOP Primary District 26/Evans, Richard",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 7482,
+                "votePercent": 28.77
+              },
+              "position": 2,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 1452,
+              "elected": false,
+              "name": "Fratto, Johnny",
+              "name2": "Johnny Fratto",
+              "firstName": "Johnny",
+              "lastName": "Fratto",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 152,
+                  "name": "JOHNNY FRATTO",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/152.png",
+                  "fileName": "JOHNNY FRATTO.png",
+                  "extension": "png",
+                  "length": 329038,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:54-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. House - GOP Primary District 26/Fratto, Johnny",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 2093,
+                "votePercent": 8.05
+              },
+              "position": 3,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            }
+          ]
+        },
+        {
+          "id": 961,
+          "event": {
+            "id": 13,
+            "date": "2024-08-20T00:00:00",
+            "name": "Florida State Primary 2024",
+            "nameShort": "Florida State Primary 2024",
+            "type": "General Election",
+            "notes": null,
+            "timeZone": "Eastern Standard Time",
+            "contestSortTypeCode": "",
+            "partySortTypeCode": "",
+            "modifiedDate": "2024-07-30T14:52:47-04:00",
+            "genericHeadshot": {
+              "media": null
+            }
+          },
+          "office": {
+            "id": 329,
+            "name": "U.S. House - DEM Primary District 17",
+            "nameShort": "U.S. House - DEM Primary District 17",
+            "notes": null,
+            "modifiedDate": "2024-07-30T14:52:49-04:00"
+          },
+          "area": {
+            "id": 16,
+            "name": "Florida",
+            "nameShort": "FL",
+            "notes": null,
+            "code": null,
+            "modifiedDate": "2024-02-27T15:59:52-05:00"
+          },
+          "contestType": "Primary",
+          "notes": null,
+          "positions": 1,
+          "polls": {
+            "total": 234,
+            "reported": 234,
+            "reportedPercent": "100",
+            "closingTime": null,
+            "isClosed": null
+          },
+          "runoffEligible": false,
+          "isRunoff": false,
+          "dbVotesPercent": "99",
+          "dbVotesPercentPrevious": "",
+          "sortType": "",
+          "modifiedDate": "2024-07-30T14:52:51-04:00",
+          "choice": [
+            {
+              "id": 1818,
+              "elected": true,
+              "name": "Lopez, Manny",
+              "name2": "Manny Lopez",
+              "firstName": "Manny",
+              "lastName": "Lopez",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 155,
+                  "name": "MANNY LOPEZ",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/155.png",
+                  "fileName": "MANNY LOPEZ.png",
+                  "extension": "png",
+                  "length": 282642,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:55-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. House - DEM Primary District 17/Lopez, Manny",
+              "notes": null,
+              "party": {
+                "name": "Democrat",
+                "nameShort": "DEM",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 38819,
+                "votePercent": 65.38
+              },
+              "position": 1,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 1819,
+              "elected": false,
+              "name": "Montavon, Matthew",
+              "name2": "Matthew Montavon",
+              "firstName": "Matthew",
+              "lastName": "Montavon",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 157,
+                  "name": "MATTHEW MONTAVON",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/157.png",
+                  "fileName": "MATTHEW MONTAVON.png",
+                  "extension": "png",
+                  "length": 482069,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:55-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. House - DEM Primary District 17/Montavon, Matthew",
+              "notes": null,
+              "party": {
+                "name": "Democrat",
+                "nameShort": "DEM",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 20559,
+                "votePercent": 34.62
+              },
+              "position": 2,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            }
+          ]
+        },
+        {
+          "id": 410,
+          "event": {
+            "id": 13,
+            "date": "2024-08-20T00:00:00",
+            "name": "Florida State Primary 2024",
+            "nameShort": "Florida State Primary 2024",
+            "type": "General Election",
+            "notes": null,
+            "timeZone": "Eastern Standard Time",
+            "contestSortTypeCode": "",
+            "partySortTypeCode": "",
+            "modifiedDate": "2024-07-30T14:52:47-04:00",
+            "genericHeadshot": {
+              "media": null
+            }
+          },
+          "office": {
+            "id": 159,
+            "name": "U.S. House - DEM Primary District 18",
+            "nameShort": "U.S. House - DEM Primary District 18",
+            "notes": null,
+            "modifiedDate": "2024-07-30T14:52:48-04:00"
+          },
+          "area": {
+            "id": 16,
+            "name": "Florida",
+            "nameShort": "FL",
+            "notes": null,
+            "code": null,
+            "modifiedDate": "2024-02-27T15:59:52-05:00"
+          },
+          "contestType": "Primary",
+          "notes": null,
+          "positions": 1,
+          "polls": {
+            "total": 342,
+            "reported": 342,
+            "reportedPercent": "100",
+            "closingTime": null,
+            "isClosed": null
+          },
+          "runoffEligible": false,
+          "isRunoff": false,
+          "dbVotesPercent": "99",
+          "dbVotesPercentPrevious": "",
+          "sortType": "",
+          "modifiedDate": "2024-07-30T14:52:50-04:00",
+          "choice": [
+            {
+              "id": 961,
+              "elected": true,
+              "name": "Braunston, Peter",
+              "name2": "Peter Braunston",
+              "firstName": "Peter",
+              "lastName": "Braunston",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. House - DEM Primary District 18/Braunston, Peter",
+              "notes": null,
+              "party": {
+                "name": "Democrat",
+                "nameShort": "DEM",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 46259,
+                "votePercent": 58.68
+              },
+              "position": 1,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 962,
+              "elected": false,
+              "name": "Kale, Andrea",
+              "name2": "Andrea Kale",
+              "firstName": "Andrea",
+              "lastName": "Kale",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "Florida State Primary 2024/Florida/U.S. House - DEM Primary District 18/Kale, Andrea",
+              "notes": null,
+              "party": {
+                "name": "Democrat",
+                "nameShort": "DEM",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 32573,
+                "votePercent": 41.32
+              },
+              "position": 2,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            }
+          ]
+        },
+        {
+          "id": 301,
+          "event": {
+            "id": 13,
+            "date": "2024-08-20T00:00:00",
+            "name": "Florida State Primary 2024",
+            "nameShort": "Florida State Primary 2024",
+            "type": "General Election",
+            "notes": null,
+            "timeZone": "Eastern Standard Time",
+            "contestSortTypeCode": "",
+            "partySortTypeCode": "",
+            "modifiedDate": "2024-07-30T14:52:47-04:00",
+            "genericHeadshot": {
+              "media": null
+            }
+          },
+          "office": {
+            "id": 124,
+            "name": "State House - GOP Primary District 76",
+            "nameShort": "State House - GOP Primary District 76",
+            "notes": null,
+            "modifiedDate": "2024-07-30T14:52:47-04:00"
+          },
+          "area": {
+            "id": 16,
+            "name": "Florida",
+            "nameShort": "FL",
+            "notes": null,
+            "code": null,
+            "modifiedDate": "2024-02-27T15:59:52-05:00"
+          },
+          "contestType": "Primary",
+          "notes": null,
+          "positions": 1,
+          "polls": {
+            "total": 42,
+            "reported": 0,
+            "reportedPercent": "0",
+            "closingTime": null,
+            "isClosed": null
+          },
+          "runoffEligible": false,
+          "isRunoff": false,
+          "dbVotesPercent": "0",
+          "dbVotesPercentPrevious": "",
+          "sortType": "",
+          "modifiedDate": "2024-07-30T14:52:50-04:00",
+          "choice": [
+            {
+              "id": 818,
+              "elected": true,
+              "name": "Ceracche, Steven",
+              "name2": "Steven Ceracche",
+              "firstName": "Steven",
+              "lastName": "Ceracche",
+              "incumbent": false,
+              "acclaimed": true,
+              "headShot": {
+                "media": {
+                  "id": 164,
+                  "name": "STEVEN CERACCHE",
+                  "localUrl": "http://192.168.9.177/tickit/blade/media/164.png",
+                  "fileName": "STEVEN CERACCHE.png",
+                  "extension": "png",
+                  "length": 284689,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-07-22T22:48:56-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "Florida State Primary 2024/Florida/State House - GOP Primary District 76/Ceracche, Steven",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 1,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  }

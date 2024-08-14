@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./BL-logo.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="./config.js"></script>
+    <script>
+    function sendMessage(data) {
+      try {
+        var isFirefox = typeof InstallTrigger !== 'undefined';
+        if (isFirefox) {
+          data['type'] = 'gnca-iframe';
+          data['target'] = 'gnca-iframe-1';
+          data['action'] = 'setHeight';
+          // window.parent.postMessage( data, 'https://' + "globalnews.ca")
+          // window.parent.postMessage( data, 'https://' + "globalnews-ca-develop.go-vip.net")
+        } else {
+          const isParentDomain = window.location.host === "bannisterlake.com" 
+            // || window.location.host === "globalnews.ca" 
+            || window.location.host === "localhost:3000" 
+            || window.location.host === "globalnews-ca-develop.go-vip.net"
+          let parentDomain = window.location.ancestorOrigins[0];
+          const isAmp = false
+          if (isAmp) {
+            window.parent.postMessage({
+              sentinel: 'amp', 
+              type: 'embed-size', 
+              height: data.height
+            }, '*')
+          } else {
+            data['type'] = 'gnca-iframe';
+            data['target'] = 'gnca-iframe-1';
+            data['action'] = 'setHeight';
+            if (parentDomain === 'https://bannisterlake.com') {
+              window.parent.postMessage( data, 'https://' + "bannisterlake.com")
+            // } else if (parentDomain === 'https://globalnews-ca-develop.go-vip.net') {
+            //   window.parent.postMessage( data, 'https://' + "globalnews-ca-develop.go-vip.net")
+            // } else if (parentDomain === 'https://globalnews.ca') {
+            //   window.parent.postMessage( data, 'https://' + "globalnews.ca")
+            // }
+            }
+        }
+      }
+      } catch (e) {
+        console.log(e)
+      }
+      
+    }</script>
+    <title>Wink Election Widget</title>
+    <script type="module" crossorigin src="./assets/index-BigjXivI.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-C-9F3DMD.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

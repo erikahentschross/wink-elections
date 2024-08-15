@@ -32,3 +32,5 @@ The data object on the message event will look like this:
 ```
 
 If you would like any of these variables changed contact repository owner.
+If you would like to use this feature, the html will need updating to include parent domain as an authorized domain.  
+

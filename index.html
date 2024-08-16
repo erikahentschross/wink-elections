@@ -16,13 +16,10 @@
           data['type'] = 'gnca-iframe';
           data['target'] = 'gnca-iframe-1';
           data['action'] = 'setHeight';
-          // window.parent.postMessage( data, 'https://' + "globalnews.ca")
-          // window.parent.postMessage( data, 'https://' + "globalnews-ca-develop.go-vip.net")
         } else {
           const isParentDomain = window.location.host === "bannisterlake.com" 
-            // || window.location.host === "globalnews.ca" 
+            || window.location.host === "winknews.com" 
             || window.location.host === "localhost:3000" 
-            || window.location.host === "globalnews-ca-develop.go-vip.net"
           let parentDomain = window.location.ancestorOrigins[0];
           const isAmp = false
           if (isAmp) {
@@ -37,11 +34,8 @@
             data['action'] = 'setHeight';
             if (parentDomain === 'https://bannisterlake.com') {
               window.parent.postMessage( data, 'https://' + "bannisterlake.com")
-            // } else if (parentDomain === 'https://globalnews-ca-develop.go-vip.net') {
-            //   window.parent.postMessage( data, 'https://' + "globalnews-ca-develop.go-vip.net")
-            // } else if (parentDomain === 'https://globalnews.ca') {
-            //   window.parent.postMessage( data, 'https://' + "globalnews.ca")
-            // }
+            } else if (parentDomain === 'https://winknews.com/') {
+              window.parent.postMessage( data, 'https://' + "winknews.com")
             }
         }
       }
@@ -51,8 +45,8 @@
       
     }</script>
     <title>Wink Election Widget</title>
-    <script type="module" crossorigin src="./assets/index-BigjXivI.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-C-9F3DMD.css">
+    <script type="module" crossorigin src="./assets/index-BsvLwIwD.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-TkGRDmid.css">
   </head>
   <body>
     <div id="root"></div>

@@ -4,12 +4,14 @@ var CONFIG = {
             {
                 electionEvent: 'Primaries', 
                 fileName: 'Florida_primary.json', 
-                entry: 'ElectionPlaylist'
+                entry: 'ElectionPlaylist', 
+                title: '2024 August Primary'
             }, 
             {
                 electionEvent: 'Local',
                 fileName: 'Florida_local.json', 
-                entry: 'ElectionEvent'
+                entry: 'ElectionEvent', 
+                title: '2024 August Primary'
             }, 
             // {
             //     electionEvent: 'General',

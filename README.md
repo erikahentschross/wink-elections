@@ -9,21 +9,10 @@ https://example.com/path/to/widget/#/2024/august will allow users to view both L
 Adding "local" or "primary" to the end of the URL will show only election events of those instances: 
 
 Local: 
-https://example.com/path/to/widget/#/2024/august/local
+https://bannisterlake.com/dl/web-widgets/elections/us/local/#/2024/august/local
 
 Primaries: 
-https://example.com/path/to/widget/#/2024/august/primaries
-
-### Navigate to selected county only data
-Feature only works on local elections. 
-
-Add the name of the county to the end of the URL to view only races in that county.
-
-Example: 
-
-https://example.com/path/to/widget/#/2024/august/local/lee%20county
-
-note: letter case does not matter, but whitespace character and county are required to match the data. (This may change in the future)
+https://bannisterlake.com/dl/web-widgets/elections/us/local/#/2024/august/primaries
 
 ## Use on website
 Use generated URLs as the src of an iframe within your website. 

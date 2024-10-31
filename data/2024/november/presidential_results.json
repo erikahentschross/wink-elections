@@ -1,16 +1,16 @@
 {
-  "generated": "2024-10-28T18:39:10.5959801Z",
+  "generated": "2024-10-31T18:13:57.9432749Z",
   "ElectionEvent": {
     "id": 21,
     "date": "2024-11-05T00:00:00",
-    "name": "US and Statewide Popular and Electoral Votes 2024",
+    "name": "2024 Presidental Florida",
     "nameShort": "US and Statewide Popular and Electoral Votes 2024",
     "type": "General Election",
     "notes": null,
     "timeZone": "Eastern Standard Time",
     "contestSortTypeCode": "",
     "partySortTypeCode": "",
-    "modifiedDate": "2024-10-25T10:42:34-04:00",
+    "modifiedDate": "2024-10-29T15:31:26-04:00",
     "genericHeadshot": {
       "media": null
     },
@@ -37,17 +37,17 @@
         "positions": 1,
         "polls": {
           "total": 5631,
-          "reported": 3079,
-          "reportedPercent": "54.68",
+          "reported": 1757,
+          "reportedPercent": "31.2",
           "closingTime": null,
           "isClosed": null
         },
         "runoffEligible": false,
         "isRunoff": false,
-        "dbVotesPercent": "54",
+        "dbVotesPercent": "31",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T14:38:57-04:00",
+        "modifiedDate": "2024-10-31T14:13:45-04:00",
         "officename": "President",
         "seatname": "",
         "party": "",
@@ -85,7 +85,7 @@
                 "alpha": false
               }
             },
-            "path": "US and Statewide Popular and Electoral Votes 2024/Florida/President/Trump, Donald",
+            "path": "2024 Presidental Florida/Florida/President/Trump, Donald",
             "notes": null,
             "party": {
               "name": "Republican",
@@ -100,8 +100,8 @@
               "modifiedDate": "2024-03-06T21:48:50-05:00"
             },
             "votes": {
-              "total": 2733919,
-              "votePercent": 53.21
+              "total": 1579912,
+              "votePercent": 52.94
             },
             "position": 1,
             "previousVotes": {
@@ -152,7 +152,7 @@
                 "alpha": false
               }
             },
-            "path": "US and Statewide Popular and Electoral Votes 2024/Florida/President/Harris, Kamala",
+            "path": "2024 Presidental Florida/Florida/President/Harris, Kamala",
             "notes": null,
             "party": {
               "name": "DEMOCRAT",
@@ -167,8 +167,8 @@
               "modifiedDate": "2024-08-20T16:10:25-04:00"
             },
             "votes": {
-              "total": 2354081,
-              "votePercent": 45.81
+              "total": 1375299,
+              "votePercent": 46.09
             },
             "position": 2,
             "previousVotes": {
@@ -219,7 +219,7 @@
                 "alpha": false
               }
             },
-            "path": "US and Statewide Popular and Electoral Votes 2024/Florida/President/De la Cruz, Claudia",
+            "path": "2024 Presidental Florida/Florida/President/De la Cruz, Claudia",
             "notes": null,
             "party": {
               "name": "PSL",
@@ -234,8 +234,8 @@
               "modifiedDate": "2024-10-21T13:06:34-04:00"
             },
             "votes": {
-              "total": 22245,
-              "votePercent": 0.43
+              "total": 12627,
+              "votePercent": 0.42
             },
             "position": 3,
             "previousVotes": {
@@ -286,7 +286,7 @@
                 "alpha": false
               }
             },
-            "path": "US and Statewide Popular and Electoral Votes 2024/Florida/President/Oliver, Chase",
+            "path": "2024 Presidental Florida/Florida/President/Oliver, Chase",
             "notes": null,
             "party": {
               "name": "Libertarian",
@@ -301,7 +301,7 @@
               "modifiedDate": "2024-03-14T15:10:24-04:00"
             },
             "votes": {
-              "total": 8881,
+              "total": 5155,
               "votePercent": 0.17
             },
             "position": 4,
@@ -353,7 +353,7 @@
                 "alpha": false
               }
             },
-            "path": "US and Statewide Popular and Electoral Votes 2024/Florida/President/Sonski, Peter",
+            "path": "2024 Presidental Florida/Florida/President/Sonski, Peter",
             "notes": null,
             "party": {
               "name": "ASP",
@@ -368,7 +368,7 @@
               "modifiedDate": "2024-10-21T13:06:34-04:00"
             },
             "votes": {
-              "total": 7605,
+              "total": 4594,
               "votePercent": 0.15
             },
             "position": 5,
@@ -420,7 +420,7 @@
                 "alpha": false
               }
             },
-            "path": "US and Statewide Popular and Electoral Votes 2024/Florida/President/Stein, Jill",
+            "path": "2024 Presidental Florida/Florida/President/Stein, Jill",
             "notes": null,
             "party": {
               "name": "Green",
@@ -435,8 +435,8 @@
               "modifiedDate": "2024-03-14T15:10:24-04:00"
             },
             "votes": {
-              "total": 6550,
-              "votePercent": 0.13
+              "total": 3659,
+              "votePercent": 0.12
             },
             "position": 6,
             "previousVotes": {
@@ -487,7 +487,7 @@
                 "alpha": false
               }
             },
-            "path": "US and Statewide Popular and Electoral Votes 2024/Florida/President/Terry, Randall",
+            "path": "2024 Presidental Florida/Florida/President/Terry, Randall",
             "notes": null,
             "party": {
               "name": "Constitution",
@@ -502,7 +502,7 @@
               "modifiedDate": "2024-03-14T15:10:24-04:00"
             },
             "votes": {
-              "total": 5043,
+              "total": 2876,
               "votePercent": 0.1
             },
             "position": 7,
@@ -545,18 +545,153 @@
         "positions": 1,
         "polls": {
           "total": 5631,
-          "reported": 3079,
-          "reportedPercent": "54.68",
+          "reported": 1757,
+          "reportedPercent": "31.2",
           "closingTime": null,
           "isClosed": null
         },
         "runoffEligible": false,
         "isRunoff": false,
-        "dbVotesPercent": "54",
+        "dbVotesPercent": "31",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T14:38:57-04:00",
-        "choice": []
+        "modifiedDate": "2024-10-31T14:13:45-04:00",
+        "choice": [
+          {
+            "id": 3720,
+            "elected": false,
+            "name": "Harris, Kamala",
+            "name2": "Kamala Harris",
+            "firstName": "Kamala",
+            "lastName": "Harris",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 1333,
+                "name": "HARRIS_Kamala",
+                "localUrl": "http://localhost/tickit/blade/media/1333.jpg",
+                "fileName": "HARRIS_Kamala.jpg",
+                "extension": "jpg",
+                "length": 650660,
+                "height": 2400,
+                "width": 2400,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/jpeg",
+                "url": null,
+                "savedPath": null,
+                "caption": "",
+                "keywords": "",
+                "modifiedDate": "2024-10-18T10:49:39-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": "disposable",
+                "alpha": false
+              }
+            },
+            "path": "2024 Presidental Florida/Florida/Electoral College/Harris, Kamala",
+            "notes": null,
+            "party": {
+              "name": "DEMOCRAT",
+              "nameShort": "DEM",
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "#1334A4",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2024-08-20T16:10:25-04:00"
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 3721,
+            "elected": false,
+            "name": "Trump, Donald",
+            "name2": "Donald Trump",
+            "firstName": "Donald",
+            "lastName": "Trump",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 2825,
+                "name": "TRUMP_Donald",
+                "localUrl": "http://localhost/tickit/blade/media/2825.png",
+                "fileName": "TRUMP_Donald.png",
+                "extension": "png",
+                "length": 384961,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-10-25T17:20:14-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 Presidental Florida/Florida/Electoral College/Trump, Donald",
+            "notes": null,
+            "party": {
+              "name": "Republican",
+              "nameShort": "GOP",
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "#C00000",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": "2024-03-06T21:48:50-05:00"
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
       }
     ]
   }

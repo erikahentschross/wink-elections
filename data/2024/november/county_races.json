@@ -1,16 +1,16 @@
 {
-  "generated": "2024-10-28T18:38:29.0288358Z",
+  "generated": "2024-10-31T18:13:02.1649195Z",
   "ElectionEvent": {
     "id": 14,
     "date": "2024-11-05T00:00:00",
-    "name": "2024 November Election",
+    "name": "2024 November Election Local Races",
     "nameShort": null,
     "type": "U.S. Elections",
     "notes": null,
     "timeZone": "Eastern Standard Time",
     "contestSortTypeCode": "ResultsDesc",
     "partySortTypeCode": "ResultsDesc",
-    "modifiedDate": "2024-10-04T12:02:41-04:00",
+    "modifiedDate": "2024-10-29T15:32:15-04:00",
     "genericHeadshot": {
       "media": null
     },
@@ -26,19 +26,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -47,7 +47,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2412,
@@ -82,7 +82,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Lee County Sheriff/Marceno, Carmine",
+            "path": "2024 November Election Local Races/Lee/Lee County Sheriff/Marceno, Carmine",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -97,10 +97,77 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 10000,
+              "total": 4000,
               "votePercent": 100.0
             },
             "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 4590,
+            "elected": false,
+            "name": "Candidate, Write In",
+            "name2": "Write In Candidate",
+            "firstName": "Write In",
+            "lastName": "Candidate",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 237,
+                "name": "MAN",
+                "localUrl": "http://localhost/tickit/blade/media/237.png",
+                "fileName": "MAN.png",
+                "extension": "png",
+                "length": 39880,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": null,
+                "savedPath": null,
+                "caption": "",
+                "keywords": "SILHOUETTE",
+                "modifiedDate": "2024-08-02T22:56:27-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": "disposable",
+                "alpha": true
+              }
+            },
+            "path": "2024 November Election Local Races/Lee/Lee County Sheriff/Candidate, Write In",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
             "previousVotes": {
               "total": 0,
               "votePercent": 0.0
@@ -129,19 +196,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -150,7 +217,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2410,
@@ -185,7 +252,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Lee County Schools Superintendent/Arias, Victor",
+            "path": "2024 November Election Local Races/Lee/Lee County Schools Superintendent/Arias, Victor",
             "notes": null,
             "party": {
               "name": "DEMOCRAT",
@@ -200,7 +267,7 @@
               "modifiedDate": "2024-08-20T16:10:25-04:00"
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -252,7 +319,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Lee County Schools Superintendent/Carlin, Denise",
+            "path": "2024 November Election Local Races/Lee/Lee County Schools Superintendent/Carlin, Denise",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -267,7 +334,7 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -303,19 +370,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -324,11 +391,11 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2411,
-            "elected": false,
+            "elected": true,
             "name": "Mulicka, David",
             "name2": "David Mulicka",
             "firstName": "David",
@@ -359,7 +426,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Lee County Commission District 3/Mulicka, David",
+            "path": "2024 November Election Local Races/Lee/Lee County Commission District 3/Mulicka, David",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -374,10 +441,77 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 10000,
+              "total": 4000,
               "votePercent": 100.0
             },
             "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 4591,
+            "elected": false,
+            "name": "Candidate, Write In",
+            "name2": "Write In Candidate",
+            "firstName": "Write In",
+            "lastName": "Candidate",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 237,
+                "name": "MAN",
+                "localUrl": "http://localhost/tickit/blade/media/237.png",
+                "fileName": "MAN.png",
+                "extension": "png",
+                "length": 39880,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": null,
+                "savedPath": null,
+                "caption": "",
+                "keywords": "SILHOUETTE",
+                "modifiedDate": "2024-08-02T22:56:27-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": "disposable",
+                "alpha": true
+              }
+            },
+            "path": "2024 November Election Local Races/Lee/Lee County Commission District 3/Candidate, Write In",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
             "previousVotes": {
               "total": 0,
               "votePercent": 0.0
@@ -406,19 +540,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -427,11 +561,11 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2414,
-            "elected": false,
+            "elected": true,
             "name": "Fowler, Kizzie",
             "name2": "Kizzie Fowler",
             "firstName": "Kizzie",
@@ -462,7 +596,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - Lee/Lee County Commission District 5/Fowler, Kizzie",
+            "path": "2024 November Election Local Races/Lee/Lee County Commission District 5/Fowler, Kizzie",
             "notes": null,
             "party": {
               "name": "DEMOCRAT",
@@ -477,7 +611,7 @@
               "modifiedDate": "2024-08-20T16:10:25-04:00"
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -529,7 +663,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Lee County Commission District 5/Greenwell, Mike",
+            "path": "2024 November Election Local Races/Lee/Lee County Commission District 5/Greenwell, Mike",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -544,7 +678,7 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -576,18 +710,18 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 0,
-          "reported": 100,
+          "reported": 40,
           "reportedPercent": "",
           "closingTime": null,
           "isClosed": null
@@ -597,7 +731,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2415,
@@ -632,7 +766,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Lee County School Board District 7/Chaviano, Vanessa",
+            "path": "2024 November Election Local Races/Lee/Lee County School Board District 7/Chaviano, Vanessa",
             "notes": null,
             "party": {
               "name": null,
@@ -647,7 +781,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -699,7 +833,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Lee County School Board District 7/Chester, Sheridan",
+            "path": "2024 November Election Local Races/Lee/Lee County School Board District 7/Chester, Sheridan",
             "notes": null,
             "party": {
               "name": null,
@@ -714,7 +848,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -746,19 +880,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 8,
-          "reported": 8,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -767,7 +901,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2417,
@@ -802,7 +936,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Bonita Springs Mayor/Botana, Derrick",
+            "path": "2024 November Election Local Races/Lee/Bonita Springs Mayor/Botana, Derrick",
             "notes": null,
             "party": {
               "name": null,
@@ -817,7 +951,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4000,
+              "total": 1600,
               "votePercent": 40.0
             },
             "position": 1,
@@ -869,7 +1003,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Bonita Springs Mayor/Condit, Ruth",
+            "path": "2024 November Election Local Races/Lee/Bonita Springs Mayor/Condit, Ruth",
             "notes": null,
             "party": {
               "name": null,
@@ -884,7 +1018,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 3000,
+              "total": 1200,
               "votePercent": 30.0
             },
             "position": 2,
@@ -936,7 +1070,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - Lee/Bonita Springs Mayor/Gibson, Mike",
+            "path": "2024 November Election Local Races/Lee/Bonita Springs Mayor/Gibson, Mike",
             "notes": null,
             "party": {
               "name": null,
@@ -951,7 +1085,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 2000,
+              "total": 800,
               "votePercent": 20.0
             },
             "position": 3,
@@ -1003,7 +1137,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Bonita Springs Mayor/Steinmeyer, Rick",
+            "path": "2024 November Election Local Races/Lee/Bonita Springs Mayor/Steinmeyer, Rick",
             "notes": null,
             "party": {
               "name": null,
@@ -1018,7 +1152,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 1000,
+              "total": 400,
               "votePercent": 10.0
             },
             "position": 4,
@@ -1050,19 +1184,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 6,
-          "reported": 6,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -1071,7 +1205,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2421,
@@ -1106,7 +1240,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - Lee/Bonita Springs City Council District 2/Purdon, Jesse",
+            "path": "2024 November Election Local Races/Lee/Bonita Springs City Council District 2/Purdon, Jesse",
             "notes": null,
             "party": {
               "name": null,
@@ -1121,7 +1255,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -1173,7 +1307,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Bonita Springs City Council District 2/Smith, Zach",
+            "path": "2024 November Election Local Races/Lee/Bonita Springs City Council District 2/Smith, Zach",
             "notes": null,
             "party": {
               "name": null,
@@ -1188,7 +1322,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -1220,19 +1354,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 2,
-          "reported": 2,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -1241,7 +1375,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2423,
@@ -1276,7 +1410,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - Lee/Bonita Springs City Council District 6/Fitzpatrick, Jim",
+            "path": "2024 November Election Local Races/Lee/Bonita Springs City Council District 6/Fitzpatrick, Jim",
             "notes": null,
             "party": {
               "name": null,
@@ -1291,7 +1425,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -1343,7 +1477,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Bonita Springs City Council District 6/Forbes, Carolyn",
+            "path": "2024 November Election Local Races/Lee/Bonita Springs City Council District 6/Forbes, Carolyn",
             "notes": null,
             "party": {
               "name": null,
@@ -1358,7 +1492,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -1390,19 +1524,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 26,
-          "reported": 26,
-          "reportedPercent": "100",
+          "reported": 8,
+          "reportedPercent": "30.77",
           "closingTime": null,
           "isClosed": null
         },
@@ -1411,7 +1545,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2426,
@@ -1446,7 +1580,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Cape Coral City Council District 2/Lehmann, Laurie",
+            "path": "2024 November Election Local Races/Lee/Cape Coral City Council District 2/Lehmann, Laurie",
             "notes": null,
             "party": {
               "name": null,
@@ -1461,7 +1595,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -1513,7 +1647,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Cape Coral City Council District 2/Sheppard, Dan",
+            "path": "2024 November Election Local Races/Lee/Cape Coral City Council District 2/Sheppard, Dan",
             "notes": null,
             "party": {
               "name": null,
@@ -1528,7 +1662,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -1560,19 +1694,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 26,
-          "reported": 26,
-          "reportedPercent": "100",
+          "reported": 8,
+          "reportedPercent": "30.77",
           "closingTime": null,
           "isClosed": null
         },
@@ -1581,7 +1715,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2428,
@@ -1616,7 +1750,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Cape Coral City Council District 5/Kilraine, Joseph",
+            "path": "2024 November Election Local Races/Lee/Cape Coral City Council District 5/Kilraine, Joseph",
             "notes": null,
             "party": {
               "name": null,
@@ -1631,7 +1765,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -1683,7 +1817,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Cape Coral City Council District 5/Pease, Charlie",
+            "path": "2024 November Election Local Races/Lee/Cape Coral City Council District 5/Pease, Charlie",
             "notes": null,
             "party": {
               "name": null,
@@ -1698,7 +1832,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -1730,19 +1864,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 26,
-          "reported": 26,
-          "reportedPercent": "100",
+          "reported": 8,
+          "reportedPercent": "30.77",
           "closingTime": null,
           "isClosed": null
         },
@@ -1751,7 +1885,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2429,
@@ -1786,7 +1920,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Cape Coral City Council District 3/Donnell, Derrick",
+            "path": "2024 November Election Local Races/Lee/Cape Coral City Council District 3/Donnell, Derrick",
             "notes": null,
             "party": {
               "name": null,
@@ -1801,7 +1935,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -1853,7 +1987,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Cape Coral City Council District 3/McCormick, Deborah",
+            "path": "2024 November Election Local Races/Lee/Cape Coral City Council District 3/McCormick, Deborah",
             "notes": null,
             "party": {
               "name": null,
@@ -1868,7 +2002,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -1900,19 +2034,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 26,
-          "reported": 26,
-          "reportedPercent": "100",
+          "reported": 8,
+          "reportedPercent": "30.77",
           "closingTime": null,
           "isClosed": null
         },
@@ -1921,7 +2055,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2431,
@@ -1956,7 +2090,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Cape Coral City Council District 4/Carr, Richard",
+            "path": "2024 November Election Local Races/Lee/Cape Coral City Council District 4/Carr, Richard",
             "notes": null,
             "party": {
               "name": null,
@@ -1971,7 +2105,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -2023,7 +2157,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Cape Coral City Council District 4/Nelson, Jennifer",
+            "path": "2024 November Election Local Races/Lee/Cape Coral City Council District 4/Nelson, Jennifer",
             "notes": null,
             "party": {
               "name": null,
@@ -2038,7 +2172,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -2070,19 +2204,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 26,
-          "reported": 26,
-          "reportedPercent": "100",
+          "reported": 8,
+          "reportedPercent": "30.77",
           "closingTime": null,
           "isClosed": null
         },
@@ -2091,7 +2225,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2433,
@@ -2126,7 +2260,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Cape Coral City Council District 7/Harper, Michael",
+            "path": "2024 November Election Local Races/Lee/Cape Coral City Council District 7/Harper, Michael",
             "notes": null,
             "party": {
               "name": null,
@@ -2141,7 +2275,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -2193,7 +2327,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Cape Coral City Council District 7/Kaduk, Rachel",
+            "path": "2024 November Election Local Races/Lee/Cape Coral City Council District 7/Kaduk, Rachel",
             "notes": null,
             "party": {
               "name": null,
@@ -2208,7 +2342,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -2240,19 +2374,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 10,
-          "reported": 10,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "40",
           "closingTime": null,
           "isClosed": null
         },
@@ -2261,7 +2395,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2435,
@@ -2275,7 +2409,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Lee/North Fort Myers Fire Control Seat 4/Land, James",
+            "path": "2024 November Election Local Races/Lee/North Fort Myers Fire Control Seat 4/Land, James",
             "notes": null,
             "party": {
               "name": null,
@@ -2290,7 +2424,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -2321,7 +2455,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Lee/North Fort Myers Fire Control Seat 4/McHugh, Mark",
+            "path": "2024 November Election Local Races/Lee/North Fort Myers Fire Control Seat 4/McHugh, Mark",
             "notes": null,
             "party": {
               "name": null,
@@ -2336,7 +2470,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -2368,18 +2502,18 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 0,
-          "reported": 100,
+          "reported": 40,
           "reportedPercent": "",
           "closingTime": null,
           "isClosed": null
@@ -2389,7 +2523,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2437,
@@ -2424,7 +2558,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Fort Myers City Council Ward 2/Giraldo, Diana",
+            "path": "2024 November Election Local Races/Lee/Fort Myers City Council Ward 2/Giraldo, Diana",
             "notes": null,
             "party": {
               "name": null,
@@ -2439,7 +2573,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -2491,7 +2625,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Fort Myers City Council Ward 2/McMiller, Jacquelyn",
+            "path": "2024 November Election Local Races/Lee/Fort Myers City Council Ward 2/McMiller, Jacquelyn",
             "notes": null,
             "party": {
               "name": null,
@@ -2506,7 +2640,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -2538,19 +2672,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 4,
-          "reported": 4,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -2559,7 +2693,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2439,
@@ -2594,7 +2728,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Fort Myers City Council Ward 4/Banyai, Cindy",
+            "path": "2024 November Election Local Races/Lee/Fort Myers City Council Ward 4/Banyai, Cindy",
             "notes": null,
             "party": {
               "name": null,
@@ -2609,7 +2743,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -2661,7 +2795,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Fort Myers City Council Ward 4/Bouchette, Liston",
+            "path": "2024 November Election Local Races/Lee/Fort Myers City Council Ward 4/Bouchette, Liston",
             "notes": null,
             "party": {
               "name": null,
@@ -2676,7 +2810,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -2708,19 +2842,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 3,
         "polls": {
           "total": 1,
-          "reported": 1,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -2729,7 +2863,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2441,
@@ -2764,7 +2898,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Fort Myers Beach Town Council/Allers, Dan",
+            "path": "2024 November Election Local Races/Lee/Fort Myers Beach Town Council/Allers, Dan",
             "notes": null,
             "party": {
               "name": null,
@@ -2779,7 +2913,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4000,
+              "total": 1600,
               "votePercent": 40.0
             },
             "position": 1,
@@ -2831,7 +2965,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Fort Myers Beach Town Council/Atterholt, Jim",
+            "path": "2024 November Election Local Races/Lee/Fort Myers Beach Town Council/Atterholt, Jim",
             "notes": null,
             "party": {
               "name": null,
@@ -2846,7 +2980,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 3000,
+              "total": 1200,
               "votePercent": 30.0
             },
             "position": 2,
@@ -2898,7 +3032,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Fort Myers Beach Town Council/Safford, Scott",
+            "path": "2024 November Election Local Races/Lee/Fort Myers Beach Town Council/Safford, Scott",
             "notes": null,
             "party": {
               "name": null,
@@ -2913,7 +3047,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 2000,
+              "total": 800,
               "votePercent": 20.0
             },
             "position": 3,
@@ -2965,7 +3099,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Fort Myers Beach Town Council/Scasny, Greg",
+            "path": "2024 November Election Local Races/Lee/Fort Myers Beach Town Council/Scasny, Greg",
             "notes": null,
             "party": {
               "name": null,
@@ -2980,7 +3114,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 1000,
+              "total": 400,
               "votePercent": 10.0
             },
             "position": 4,
@@ -3012,19 +3146,19 @@
         },
         "area": {
           "id": 82,
-          "name": "Florida - Glades",
+          "name": "Glades",
           "nameShort": "Glades",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:24-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 13,
-          "reported": 13,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "30.77",
           "closingTime": null,
           "isClosed": null
         },
@@ -3033,7 +3167,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2446,
@@ -3068,7 +3202,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - Glades/Glades County Commissioner District 5/Flanagan, Kevin",
+            "path": "2024 November Election Local Races/Glades/Glades County Commissioner District 5/Flanagan, Kevin",
             "notes": null,
             "party": {
               "name": "NO PARTY AFFILIATION",
@@ -3083,7 +3217,7 @@
               "modifiedDate": "2024-03-06T21:50:17-05:00"
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -3135,7 +3269,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Glades/Glades County Commissioner District 5/Stanley, Tim",
+            "path": "2024 November Election Local Races/Glades/Glades County Commissioner District 5/Stanley, Tim",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -3150,7 +3284,7 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -3182,19 +3316,19 @@
         },
         "area": {
           "id": 82,
-          "name": "Florida - Glades",
+          "name": "Glades",
           "nameShort": "Glades",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:24-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 13,
-          "reported": 13,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "30.77",
           "closingTime": null,
           "isClosed": null
         },
@@ -3203,7 +3337,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2447,
@@ -3238,7 +3372,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Glades/Glades County School Board District 2/Luckey, Larry",
+            "path": "2024 November Election Local Races/Glades/Glades County School Board District 2/Luckey, Larry",
             "notes": null,
             "party": {
               "name": null,
@@ -3253,7 +3387,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -3305,7 +3439,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Glades/Glades County School Board District 2/West, Kari",
+            "path": "2024 November Election Local Races/Glades/Glades County School Board District 2/West, Kari",
             "notes": null,
             "party": {
               "name": null,
@@ -3320,7 +3454,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -3352,19 +3486,19 @@
         },
         "area": {
           "id": 82,
-          "name": "Florida - Glades",
+          "name": "Glades",
           "nameShort": "Glades",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:24-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 3,
-          "reported": 3,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -3373,7 +3507,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2449,
@@ -3387,7 +3521,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Glades/Moore Haven Mosquito Control Seat 1/Hendry, Travis",
+            "path": "2024 November Election Local Races/Glades/Moore Haven Mosquito Control Seat 1/Hendry, Travis",
             "notes": null,
             "party": {
               "name": null,
@@ -3402,7 +3536,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -3433,7 +3567,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Glades/Moore Haven Mosquito Control Seat 1/Hough, Angie",
+            "path": "2024 November Election Local Races/Glades/Moore Haven Mosquito Control Seat 1/Hough, Angie",
             "notes": null,
             "party": {
               "name": null,
@@ -3448,7 +3582,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -3480,19 +3614,19 @@
         },
         "area": {
           "id": 81,
-          "name": "Florida - DeSoto",
+          "name": "DeSoto",
           "nameShort": "DeSoto",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:33-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 15,
-          "reported": 15,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "26.67",
           "closingTime": null,
           "isClosed": null
         },
@@ -3501,7 +3635,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2452,
@@ -3536,7 +3670,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - DeSoto/DeSoto County Tax Collector/Manriquez, Esmeralda",
+            "path": "2024 November Election Local Races/DeSoto/DeSoto County Tax Collector/Manriquez, Esmeralda",
             "notes": null,
             "party": {
               "name": "DEMOCRAT",
@@ -3551,7 +3685,7 @@
               "modifiedDate": "2024-08-20T16:10:25-04:00"
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -3603,7 +3737,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - DeSoto/DeSoto County Tax Collector/Pooley, Susan",
+            "path": "2024 November Election Local Races/DeSoto/DeSoto County Tax Collector/Pooley, Susan",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -3618,7 +3752,7 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -3650,19 +3784,19 @@
         },
         "area": {
           "id": 81,
-          "name": "Florida - DeSoto",
+          "name": "DeSoto",
           "nameShort": "DeSoto",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:33-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 15,
-          "reported": 15,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "26.67",
           "closingTime": null,
           "isClosed": null
         },
@@ -3671,7 +3805,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2454,
@@ -3706,7 +3840,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - DeSoto/DeSoto Superintendent of Schools/Andrews, Jermaine",
+            "path": "2024 November Election Local Races/DeSoto/DeSoto Superintendent of Schools/Andrews, Jermaine",
             "notes": null,
             "party": {
               "name": "DEMOCRAT",
@@ -3721,7 +3855,7 @@
               "modifiedDate": "2024-08-20T16:10:25-04:00"
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -3773,7 +3907,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - DeSoto/DeSoto Superintendent of Schools/Bennett, Bobby",
+            "path": "2024 November Election Local Races/DeSoto/DeSoto Superintendent of Schools/Bennett, Bobby",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -3788,7 +3922,7 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -3820,19 +3954,19 @@
         },
         "area": {
           "id": 81,
-          "name": "Florida - DeSoto",
+          "name": "DeSoto",
           "nameShort": "DeSoto",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:33-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 3,
         "polls": {
           "total": 6,
-          "reported": 6,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -3841,7 +3975,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2455,
@@ -3876,7 +4010,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - DeSoto/Arcadia City Council/Heine Jr, Robert",
+            "path": "2024 November Election Local Races/DeSoto/Arcadia City Council/Heine Jr, Robert",
             "notes": null,
             "party": {
               "name": null,
@@ -3891,7 +4025,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4000,
+              "total": 1600,
               "votePercent": 40.0
             },
             "position": 1,
@@ -3943,7 +4077,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - DeSoto/Arcadia City Council/Palmer, Chelsea",
+            "path": "2024 November Election Local Races/DeSoto/Arcadia City Council/Palmer, Chelsea",
             "notes": null,
             "party": {
               "name": null,
@@ -3958,7 +4092,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 3000,
+              "total": 1200,
               "votePercent": 30.0
             },
             "position": 2,
@@ -3988,9 +4122,9 @@
             "acclaimed": false,
             "headShot": {
               "media": {
-                "id": 2826,
+                "id": 2842,
                 "name": "VELASCO_Luis",
-                "localUrl": "http://localhost/tickit/blade/media/2826.png",
+                "localUrl": "http://localhost/tickit/blade/media/2842.png",
                 "fileName": "VELASCO_Luis.png",
                 "extension": "png",
                 "length": 271811,
@@ -4003,14 +4137,14 @@
                 "savedPath": "",
                 "caption": null,
                 "keywords": null,
-                "modifiedDate": "2024-10-25T17:20:37-04:00",
+                "modifiedDate": "2024-10-29T14:52:39-04:00",
                 "datafeedId": null,
                 "datafeedChar": "",
                 "source": null,
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - DeSoto/Arcadia City Council/Velasco, Luis",
+            "path": "2024 November Election Local Races/DeSoto/Arcadia City Council/Velasco, Luis",
             "notes": null,
             "party": {
               "name": null,
@@ -4025,7 +4159,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 2000,
+              "total": 800,
               "votePercent": 20.0
             },
             "position": 3,
@@ -4077,7 +4211,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - DeSoto/Arcadia City Council/Washington, Dee",
+            "path": "2024 November Election Local Races/DeSoto/Arcadia City Council/Washington, Dee",
             "notes": null,
             "party": {
               "name": null,
@@ -4092,7 +4226,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 1000,
+              "total": 400,
               "votePercent": 10.0
             },
             "position": 4,
@@ -4124,19 +4258,19 @@
         },
         "area": {
           "id": 93,
-          "name": "Florida - Hendry",
+          "name": "Hendry",
           "nameShort": "Hendry",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:48-04:00"
+          "modifiedDate": "2024-10-30T17:29:11-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 3,
         "polls": {
           "total": 2,
-          "reported": 2,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -4145,7 +4279,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2463,
@@ -4180,7 +4314,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Hendry/Clewiston City Commission/Gardner, Mali",
+            "path": "2024 November Election Local Races/Hendry/Clewiston City Commission/Gardner, Mali",
             "notes": null,
             "party": {
               "name": null,
@@ -4195,7 +4329,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4000,
+              "total": 1600,
               "votePercent": 40.0
             },
             "position": 1,
@@ -4247,7 +4381,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Hendry/Clewiston City Commission/Gonzalez, Roly",
+            "path": "2024 November Election Local Races/Hendry/Clewiston City Commission/Gonzalez, Roly",
             "notes": null,
             "party": {
               "name": null,
@@ -4262,7 +4396,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 3000,
+              "total": 1200,
               "votePercent": 30.0
             },
             "position": 2,
@@ -4314,7 +4448,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - Hendry/Clewiston City Commission/Pittman, James",
+            "path": "2024 November Election Local Races/Hendry/Clewiston City Commission/Pittman, James",
             "notes": null,
             "party": {
               "name": null,
@@ -4329,7 +4463,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 2000,
+              "total": 800,
               "votePercent": 20.0
             },
             "position": 3,
@@ -4381,7 +4515,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Hendry/Clewiston City Commission/Thompson, Greg",
+            "path": "2024 November Election Local Races/Hendry/Clewiston City Commission/Thompson, Greg",
             "notes": null,
             "party": {
               "name": null,
@@ -4396,7 +4530,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 1000,
+              "total": 400,
               "votePercent": 10.0
             },
             "position": 4,
@@ -4448,7 +4582,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Hendry/Clewiston City Commission/Williams II, Jason",
+            "path": "2024 November Election Local Races/Hendry/Clewiston City Commission/Williams II, Jason",
             "notes": null,
             "party": {
               "name": null,
@@ -4487,27 +4621,27 @@
       {
         "id": 1258,
         "office": {
-          "id": 442,
-          "name": "Charlotte Supervisor of Elections",
+          "id": 514,
+          "name": "Charlotte County Supervisor of Elections",
           "nameShort": "Charlotte Elections",
           "notes": null,
-          "modifiedDate": "2024-10-17T14:42:16-04:00"
+          "modifiedDate": "2024-10-31T13:09:15-04:00"
         },
         "area": {
           "id": 77,
-          "name": "Florida - Charlotte",
+          "name": "Charlotte",
           "nameShort": "Charlotte",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:51-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 79,
-          "reported": 79,
-          "reportedPercent": "100",
+          "reported": 28,
+          "reportedPercent": "35.44",
           "closingTime": null,
           "isClosed": null
         },
@@ -4516,7 +4650,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2464,
@@ -4551,7 +4685,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Charlotte/Charlotte Supervisor of Elections/Valenti, Leah",
+            "path": "2024 November Election Local Races/Charlotte/Charlotte County Supervisor of Elections/Valenti, Leah",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -4566,7 +4700,7 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 10000,
+              "total": 4000,
               "votePercent": 100.0
             },
             "position": 1,
@@ -4598,19 +4732,19 @@
         },
         "area": {
           "id": 77,
-          "name": "Florida - Charlotte",
+          "name": "Charlotte",
           "nameShort": "Charlotte",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:51-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 79,
-          "reported": 79,
-          "reportedPercent": "100",
+          "reported": 28,
+          "reportedPercent": "35.44",
           "closingTime": null,
           "isClosed": null
         },
@@ -4619,7 +4753,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2465,
@@ -4654,7 +4788,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Charlotte/Charlotte County Commission District 5/Tiseo, Joseph",
+            "path": "2024 November Election Local Races/Charlotte/Charlotte County Commission District 5/Tiseo, Joseph",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -4669,7 +4803,7 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 10000,
+              "total": 4000,
               "votePercent": 100.0
             },
             "position": 1,
@@ -4701,19 +4835,19 @@
         },
         "area": {
           "id": 88,
-          "name": "Florida - Collier",
+          "name": "Collier",
           "nameShort": "Collier",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 67,
-          "reported": 67,
-          "reportedPercent": "100",
+          "reported": 24,
+          "reportedPercent": "35.82",
           "closingTime": null,
           "isClosed": null
         },
@@ -4722,7 +4856,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2466,
@@ -4757,7 +4891,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Collier County Property Appraiser/Downs, Vickie",
+            "path": "2024 November Election Local Races/Collier/Collier County Property Appraiser/Downs, Vickie",
             "notes": null,
             "party": {
               "name": null,
@@ -4772,7 +4906,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 10000,
+              "total": 4000,
               "votePercent": 100.0
             },
             "position": 1,
@@ -4804,19 +4938,19 @@
         },
         "area": {
           "id": 88,
-          "name": "Florida - Collier",
+          "name": "Collier",
           "nameShort": "Collier",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 16,
-          "reported": 16,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "25",
           "closingTime": null,
           "isClosed": null
         },
@@ -4825,7 +4959,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2467,
@@ -4860,7 +4994,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Collier County Commissioner District 1/LoCastro, Rick",
+            "path": "2024 November Election Local Races/Collier/Collier County Commissioner District 1/LoCastro, Rick",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -4875,7 +5009,7 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 10000,
+              "total": 4000,
               "votePercent": 100.0
             },
             "position": 1,
@@ -4907,19 +5041,19 @@
         },
         "area": {
           "id": 88,
-          "name": "Florida - Collier",
+          "name": "Collier",
           "nameShort": "Collier",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 12,
-          "reported": 12,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "33.33",
           "closingTime": null,
           "isClosed": null
         },
@@ -4928,7 +5062,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2469,
@@ -4963,7 +5097,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Collier County Commission District 3/Conover, Richard",
+            "path": "2024 November Election Local Races/Collier/Collier County Commission District 3/Conover, Richard",
             "notes": null,
             "party": {
               "name": "NO PARTY AFFILIATION",
@@ -4978,7 +5112,7 @@
               "modifiedDate": "2024-03-06T21:50:17-05:00"
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -5030,7 +5164,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Collier County Commission District 3/Saunders, Burt",
+            "path": "2024 November Election Local Races/Collier/Collier County Commission District 3/Saunders, Burt",
             "notes": null,
             "party": {
               "name": "REPUBLICAN",
@@ -5045,7 +5179,7 @@
               "modifiedDate": "2024-02-14T11:30:20-05:00"
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -5069,27 +5203,27 @@
       {
         "id": 1263,
         "office": {
-          "id": 447,
-          "name": "Amendment 1 Partisan Election of School Boards",
+          "id": 495,
+          "name": "Amendment 1: Partisan Elections For School Boards (Lee)",
           "nameShort": "Lee Amend 1",
           "notes": null,
-          "modifiedDate": "2024-10-18T15:21:47-04:00"
+          "modifiedDate": "2024-10-30T18:17:07-04:00"
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": "Referendum",
         "notes": "Proposing amendments to the State\r\nConstitution to require members of a district\r\nschool board to be elected in a partisan election\r\nrather than a nonpartisan election and to\r\nspecify that the amendment only applies to\r\nelections held on or after the November 2026\r\ngeneral election.",
         "positions": 1,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -5098,11 +5232,11 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2470,
-            "elected": false,
+            "elected": true,
             "name": "Yes",
             "name2": "Yes",
             "firstName": "Yes",
@@ -5133,7 +5267,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 1 Partisan Election of School Boards/Yes",
+            "path": "2024 November Election Local Races/Lee/Amendment 1: Partisan Elections For School Boards (Lee)/Yes",
             "notes": null,
             "party": {
               "name": null,
@@ -5148,7 +5282,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -5170,6 +5304,109 @@
           {
             "id": 2471,
             "elected": false,
+            "name": "No",
+            "name2": "No",
+            "firstName": "No",
+            "lastName": "",
+            "incumbent": true,
+            "acclaimed": true,
+            "headShot": {
+              "media": {
+                "id": 201,
+                "name": "NO",
+                "localUrl": "http://localhost/tickit/blade/media/201.png",
+                "fileName": "NO.png",
+                "extension": "png",
+                "length": 7639,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:09:53-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Lee/Amendment 1: Partisan Elections For School Boards (Lee)/No",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 1800,
+              "votePercent": 45.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 1264,
+        "office": {
+          "id": 493,
+          "name": "Amendment 2: Right to Fish and Hunt (Lee)",
+          "nameShort": "Lee Amend 2",
+          "notes": null,
+          "modifiedDate": "2024-10-30T18:15:47-04:00"
+        },
+        "area": {
+          "id": 67,
+          "name": "Lee",
+          "nameShort": "Lee",
+          "notes": null,
+          "code": null,
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
+        },
+        "contestType": "Referendum",
+        "notes": "Proposing an amendment to the State\nConstitution to preserve forever fishing and\nhunting, including by the use of traditional\nmethods, as a public right and preferred means\nof responsibly managing and controlling fish\nand wildlife. Specifies that the amendment does\nnot limit the authority granted to the Fish and\nWildlife Conservation Commission under\nSection 9 of Article IV of the State Constitution.",
+        "positions": 1,
+        "polls": {
+          "total": 99,
+          "reported": 36,
+          "reportedPercent": "36.36",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoffEligible": false,
+        "isRunoff": false,
+        "dbVotesPercent": "",
+        "dbVotesPercentPrevious": "",
+        "sortType": "",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
+        "choice": [
+          {
+            "id": 2473,
+            "elected": true,
             "name": "No",
             "name2": "No",
             "firstName": "No",
@@ -5200,7 +5437,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 1 Partisan Election of School Boards/No",
+            "path": "2024 November Election Local Races/Lee/Amendment 2: Right to Fish and Hunt (Lee)/No",
             "notes": null,
             "party": {
               "name": null,
@@ -5215,10 +5452,10 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
-            "position": 2,
+            "position": 1,
             "previousVotes": {
               "total": 0,
               "votePercent": 0.0
@@ -5233,43 +5470,7 @@
             },
             "dbVotesPercent": 0.0,
             "dbVotesPercentPrevious": 0.0
-          }
-        ]
-      },
-      {
-        "id": 1264,
-        "office": {
-          "id": 448,
-          "name": "Amendment 2 Right to Fish and Hunt",
-          "nameShort": "Lee Amend 2",
-          "notes": null,
-          "modifiedDate": "2024-10-18T15:24:25-04:00"
-        },
-        "area": {
-          "id": 67,
-          "name": "Florida - Lee",
-          "nameShort": "Lee",
-          "notes": null,
-          "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
-        },
-        "contestType": "Referendum",
-        "notes": "Proposing an amendment to the State\nConstitution to preserve forever fishing and\nhunting, including by the use of traditional\nmethods, as a public right and preferred means\nof responsibly managing and controlling fish\nand wildlife. Specifies that the amendment does\nnot limit the authority granted to the Fish and\nWildlife Conservation Commission under\nSection 9 of Article IV of the State Constitution.",
-        "positions": 1,
-        "polls": {
-          "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
-          "closingTime": null,
-          "isClosed": null
-        },
-        "runoffEligible": false,
-        "isRunoff": false,
-        "dbVotesPercent": "",
-        "dbVotesPercentPrevious": "",
-        "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
-        "choice": [
+          },
           {
             "id": 2472,
             "elected": false,
@@ -5303,7 +5504,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 2 Right to Fish and Hunt/Yes",
+            "path": "2024 November Election Local Races/Lee/Amendment 2: Right to Fish and Hunt (Lee)/Yes",
             "notes": null,
             "party": {
               "name": null,
@@ -5318,75 +5519,8 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
-            },
-            "position": 1,
-            "previousVotes": {
-              "total": 0,
-              "votePercent": 0.0
-            },
-            "votes2": {
-              "total": 0,
-              "votePercent": 0.0
-            },
-            "previousVotes2": {
-              "total": 0,
-              "votePercent": 0.0
-            },
-            "dbVotesPercent": 0.0,
-            "dbVotesPercentPrevious": 0.0
-          },
-          {
-            "id": 2473,
-            "elected": false,
-            "name": "No",
-            "name2": "No",
-            "firstName": "No",
-            "lastName": "",
-            "incumbent": false,
-            "acclaimed": false,
-            "headShot": {
-              "media": {
-                "id": 201,
-                "name": "NO",
-                "localUrl": "http://localhost/tickit/blade/media/201.png",
-                "fileName": "NO.png",
-                "extension": "png",
-                "length": 7639,
-                "height": 500,
-                "width": 500,
-                "duration": null,
-                "loop": false,
-                "mimeType": "image/png",
-                "url": "",
-                "savedPath": "",
-                "caption": null,
-                "keywords": null,
-                "modifiedDate": "2024-07-26T20:09:53-04:00",
-                "datafeedId": null,
-                "datafeedChar": "",
-                "source": null,
-                "alpha": false
-              }
-            },
-            "path": "2024 November Election/Florida - Lee/Amendment 2 Right to Fish and Hunt/No",
-            "notes": null,
-            "party": {
-              "name": null,
-              "nameShort": null,
-              "nameAlt": null,
-              "notes": null,
-              "main": false,
-              "color": "",
-              "logo": {
-                "media": null
-              },
-              "modifiedDate": null
-            },
-            "votes": {
-              "total": 4500,
-              "votePercent": 45.0
             },
             "position": 2,
             "previousVotes": {
@@ -5409,27 +5543,27 @@
       {
         "id": 1265,
         "office": {
-          "id": 449,
-          "name": "Amendment 3 Personal Use of Marijuana",
+          "id": 494,
+          "name": "Amendment 3: Legalize Recreational Marijuana (Lee)",
           "nameShort": "Lee Amend 3",
           "notes": null,
-          "modifiedDate": "2024-10-18T15:26:26-04:00"
+          "modifiedDate": "2024-10-30T18:16:42-04:00"
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": "Referendum",
-        "notes": "Allows adults 21 years or older to possess,\r\npurchase, or use marijuana products and\r\nmarijuana accessories for non-medical personal\r\nconsumption by smoking, ingestion, or\r\notherwise; allows Medical Marijuana Treatment\r\nCenters, and other state licensed entities, to\r\nacquire, cultivate, process, manufacture, sell,\r\nand distribute such products and accessories.",
+        "notes": "Allows adults 21 years or older to possess,\npurchase, or use marijuana products and\nmarijuana accessories for non-medical personal\nconsumption by smoking, ingestion, or\notherwise; allows Medical Marijuana Treatment\nCenters, and other state licensed entities, to\nacquire, cultivate, process, manufacture, sell,\nand distribute such products and accessories.",
         "positions": 1,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -5438,11 +5572,11 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2474,
-            "elected": false,
+            "elected": true,
             "name": "Yes",
             "name2": "Yes",
             "firstName": "Yes",
@@ -5473,7 +5607,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 3 Personal Use of Marijuana/Yes",
+            "path": "2024 November Election Local Races/Lee/Amendment 3: Legalize Recreational Marijuana (Lee)/Yes",
             "notes": null,
             "party": {
               "name": null,
@@ -5488,7 +5622,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -5540,7 +5674,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 3 Personal Use of Marijuana/No",
+            "path": "2024 November Election Local Races/Lee/Amendment 3: Legalize Recreational Marijuana (Lee)/No",
             "notes": null,
             "party": {
               "name": null,
@@ -5555,7 +5689,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -5579,27 +5713,27 @@
       {
         "id": 1266,
         "office": {
-          "id": 450,
-          "name": "Amendment 4 Limit Government Interference with Abortion",
+          "id": 496,
+          "name": "Amendment 4: Constitutional Right to Abortion (Lee)",
           "nameShort": "Lee Amend 4",
           "notes": null,
-          "modifiedDate": "2024-10-18T15:29:04-04:00"
+          "modifiedDate": "2024-10-30T18:17:50-04:00"
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": "Referendum",
-        "notes": "No law shall prohibit, penalize, delay, or restrict\r\nabortion before viability or when necessary to\r\nprotect the patient’s health, as determined by\r\nthe patient’s healthcare provider. This\r\namendment does not change the Legislature’s\r\nconstitutional authority to require notification to\r\na parent or guardian before a minor has an\r\nabortion.",
+        "notes": "No law shall prohibit, penalize, delay, or restrict\nabortion before viability or when necessary to\nprotect the patient’s health, as determined by\nthe patient’s healthcare provider. This\namendment does not change the Legislature’s\nconstitutional authority to require notification to\na parent or guardian before a minor has an\nabortion.",
         "positions": 1,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -5608,7 +5742,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2476,
@@ -5643,7 +5777,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 4 Limit Government Interference with Abortion/Yes",
+            "path": "2024 November Election Local Races/Lee/Amendment 4: Constitutional Right to Abortion (Lee)/Yes",
             "notes": null,
             "party": {
               "name": null,
@@ -5658,7 +5792,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -5710,7 +5844,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 4 Limit Government Interference with Abortion/No",
+            "path": "2024 November Election Local Races/Lee/Amendment 4: Constitutional Right to Abortion (Lee)/No",
             "notes": null,
             "party": {
               "name": null,
@@ -5725,7 +5859,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -5749,27 +5883,27 @@
       {
         "id": 1267,
         "office": {
-          "id": 451,
-          "name": "Amendment 5 Homestead Exemptions",
+          "id": 497,
+          "name": "Amendment 5: homestead property tax exemption adjustment (Lee)",
           "nameShort": "Lee Amend 5",
           "notes": null,
-          "modifiedDate": "2024-10-18T15:33:11-04:00"
+          "modifiedDate": "2024-10-30T18:18:32-04:00"
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": "Referendum",
-        "notes": "Proposing an amendment to the State\r\nConstitution to require an annual adjustment for\r\ninflation to the value of current or future\r\nhomestead exemptions that apply solely to\r\nlevies other than school district levies and for\r\nwhich every person who has legal or equitable\r\ntitle to real estate and maintains thereon the\r\npermanent residence of the owner, or another\r\nperson legally or naturally dependent upon the\r\nowner is eligible. This amendment takes effect\r\nJanuary 1, 2025.",
+        "notes": "Proposing an amendment to the State\nConstitution to require an annual adjustment for\ninflation to the value of current or future\nhomestead exemptions that apply solely to\nlevies other than school district levies and for\nwhich every person who has legal or equitable\ntitle to real estate and maintains thereon the\npermanent residence of the owner, or another\nperson legally or naturally dependent upon the\nowner is eligible. This amendment takes effect\nJanuary 1, 2025.",
         "positions": 1,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -5778,7 +5912,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2478,
@@ -5813,7 +5947,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 5 Homestead Exemptions/No",
+            "path": "2024 November Election Local Races/Lee/Amendment 5: homestead property tax exemption adjustment (Lee)/No",
             "notes": null,
             "party": {
               "name": null,
@@ -5828,7 +5962,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -5880,7 +6014,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 5 Homestead Exemptions/Yes",
+            "path": "2024 November Election Local Races/Lee/Amendment 5: homestead property tax exemption adjustment (Lee)/Yes",
             "notes": null,
             "party": {
               "name": null,
@@ -5895,7 +6029,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -5919,27 +6053,27 @@
       {
         "id": 1268,
         "office": {
-          "id": 452,
-          "name": "Amendment 6 Public Campaign Financing Requirement",
+          "id": 498,
+          "name": "Amendment 6: Repeal of Public Campaign Financing (Lee)",
           "nameShort": "Lee Amend 6",
           "notes": null,
-          "modifiedDate": "2024-10-18T15:35:48-04:00"
+          "modifiedDate": "2024-10-30T18:18:56-04:00"
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": "Referendum",
-        "notes": "Proposing the repeal of the provision in the\nState Constitution which requires public\nfinancing for campaigns of candidates for\nelective statewide office who agree to campaign\nspending limits",
+        "notes": "Proposing the repeal of the provision in the\r\nState Constitution which requires public\r\nfinancing for campaigns of candidates for\r\nelective statewide office who agree to campaign\r\nspending limits",
         "positions": 0,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -5948,7 +6082,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2480,
@@ -5983,7 +6117,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 6 Public Campaign Financing Requirement/No",
+            "path": "2024 November Election Local Races/Lee/Amendment 6: Repeal of Public Campaign Financing (Lee)/No",
             "notes": null,
             "party": {
               "name": null,
@@ -5998,7 +6132,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -6050,7 +6184,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Amendment 6 Public Campaign Financing Requirement/Yes",
+            "path": "2024 November Election Local Races/Lee/Amendment 6: Repeal of Public Campaign Financing (Lee)/Yes",
             "notes": null,
             "party": {
               "name": null,
@@ -6065,7 +6199,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -6097,19 +6231,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": "Referendum",
         "notes": "Shall the City of Fort Myers issue General\nObligation Bonds, in one or more series, not\nexceeding $75,000,000, bearing interest not\nexceeding the maximum legal rate, maturing\nnot more than 30 years from the issuance date\nof each series, pledging the City's full faith,\ncredit and unlimited ad valorem taxing power, to\nacquire additional lands for construction and\nequipping of new parks and recreational\nfacilities and to renovate and improve existing\nparks and recreational facilities?",
         "positions": 1,
         "polls": {
           "total": 10,
-          "reported": 10,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "40",
           "closingTime": null,
           "isClosed": null
         },
@@ -6118,7 +6252,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2482,
@@ -6153,7 +6287,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Fort Myers Bond Referendum/No",
+            "path": "2024 November Election Local Races/Lee/Fort Myers Bond Referendum/No",
             "notes": null,
             "party": {
               "name": null,
@@ -6168,7 +6302,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -6220,7 +6354,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/Fort Myers Bond Referendum/Yes",
+            "path": "2024 November Election Local Races/Lee/Fort Myers Bond Referendum/Yes",
             "notes": null,
             "party": {
               "name": null,
@@ -6235,7 +6369,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -6267,19 +6401,19 @@
         },
         "area": {
           "id": 77,
-          "name": "Florida - Charlotte",
+          "name": "Charlotte",
           "nameShort": "Charlotte",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:51-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 14,
-          "reported": 14,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "28.57",
           "closingTime": null,
           "isClosed": null
         },
@@ -6288,7 +6422,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2484,
@@ -6323,7 +6457,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - Charlotte/Punta Gorda City Council District 1/Peterman, Donna",
+            "path": "2024 November Election Local Races/Charlotte/Punta Gorda City Council District 1/Peterman, Donna",
             "notes": null,
             "party": {
               "name": null,
@@ -6338,7 +6472,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -6390,7 +6524,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Charlotte/Punta Gorda City Council District 1/Polk, Jeannine",
+            "path": "2024 November Election Local Races/Charlotte/Punta Gorda City Council District 1/Polk, Jeannine",
             "notes": null,
             "party": {
               "name": null,
@@ -6405,7 +6539,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -6437,19 +6571,19 @@
         },
         "area": {
           "id": 77,
-          "name": "Florida - Charlotte",
+          "name": "Charlotte",
           "nameShort": "Charlotte",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:51-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 4,
-          "reported": 4,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -6458,7 +6592,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2486,
@@ -6472,7 +6606,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Charlotte/Englewood Water District Seat 4/Babington, Tony",
+            "path": "2024 November Election Local Races/Charlotte/Englewood Water District Seat 4/Babington, Tony",
             "notes": null,
             "party": {
               "name": null,
@@ -6487,7 +6621,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -6518,7 +6652,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Charlotte/Englewood Water District Seat 4/Pinkiewicz, Dennis",
+            "path": "2024 November Election Local Races/Charlotte/Englewood Water District Seat 4/Pinkiewicz, Dennis",
             "notes": null,
             "party": {
               "name": null,
@@ -6533,7 +6667,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -6565,19 +6699,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 2,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -6586,7 +6720,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2488,
@@ -6600,7 +6734,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Lee/Lee Memorial Health System Board of Directors District 5/Adler, Daniel",
+            "path": "2024 November Election Local Races/Lee/Lee Memorial Health System Board of Directors District 5/Adler, Daniel",
             "notes": null,
             "party": {
               "name": null,
@@ -6615,7 +6749,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4330,
+              "total": 1732,
               "votePercent": 43.34
             },
             "position": 1,
@@ -6646,7 +6780,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Lee/Lee Memorial Health System Board of Directors District 5/Bridge-Liles, Kathy",
+            "path": "2024 November Election Local Races/Lee/Lee Memorial Health System Board of Directors District 5/Bridge-Liles, Kathy",
             "notes": null,
             "party": {
               "name": null,
@@ -6661,7 +6795,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 3330,
+              "total": 1332,
               "votePercent": 33.33
             },
             "position": 2,
@@ -6692,7 +6826,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Lee/Lee Memorial Health System Board of Directors District 5/Gamino, Joseph",
+            "path": "2024 November Election Local Races/Lee/Lee Memorial Health System Board of Directors District 5/Gamino, Joseph",
             "notes": null,
             "party": {
               "name": null,
@@ -6707,7 +6841,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 2330,
+              "total": 932,
               "votePercent": 23.32
             },
             "position": 3,
@@ -6739,19 +6873,19 @@
         },
         "area": {
           "id": 88,
-          "name": "Florida - Collier",
+          "name": "Collier",
           "nameShort": "Collier",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 9,
-          "reported": 9,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -6760,7 +6894,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2492,
@@ -6774,7 +6908,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Collier/Collier Mosquito Control District Seat 5/Burland, Russell",
+            "path": "2024 November Election Local Races/Collier/Collier Mosquito Control District Seat 5/Burland, Russell",
             "notes": null,
             "party": {
               "name": null,
@@ -6789,7 +6923,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -6820,7 +6954,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Collier/Collier Mosquito Control District Seat 5/Tinel, Lou",
+            "path": "2024 November Election Local Races/Collier/Collier Mosquito Control District Seat 5/Tinel, Lou",
             "notes": null,
             "party": {
               "name": null,
@@ -6835,7 +6969,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -6867,19 +7001,19 @@
         },
         "area": {
           "id": 88,
-          "name": "Florida - Collier",
+          "name": "Collier",
           "nameShort": "Collier",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 24,
-          "reported": 24,
-          "reportedPercent": "100",
+          "reported": 8,
+          "reportedPercent": "33.33",
           "closingTime": null,
           "isClosed": null
         },
@@ -6888,7 +7022,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2493,
@@ -6902,7 +7036,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Collier/Greater Naples Fire Rescue District Seat 2/Bunner Jr, Stanley",
+            "path": "2024 November Election Local Races/Collier/Greater Naples Fire Rescue District Seat 2/Bunner Jr, Stanley",
             "notes": null,
             "party": {
               "name": null,
@@ -6917,7 +7051,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4330,
+              "total": 1732,
               "votePercent": 43.34
             },
             "position": 1,
@@ -6948,7 +7082,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Collier/Greater Naples Fire Rescue District Seat 2/Duffy, Al",
+            "path": "2024 November Election Local Races/Collier/Greater Naples Fire Rescue District Seat 2/Duffy, Al",
             "notes": null,
             "party": {
               "name": null,
@@ -6963,7 +7097,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 3330,
+              "total": 1332,
               "votePercent": 33.33
             },
             "position": 2,
@@ -6994,7 +7128,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Collier/Greater Naples Fire Rescue District Seat 2/Martin, Wayne",
+            "path": "2024 November Election Local Races/Collier/Greater Naples Fire Rescue District Seat 2/Martin, Wayne",
             "notes": null,
             "party": {
               "name": null,
@@ -7009,7 +7143,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 2330,
+              "total": 932,
               "votePercent": 23.32
             },
             "position": 3,
@@ -7041,19 +7175,19 @@
         },
         "area": {
           "id": 88,
-          "name": "Florida - Collier",
+          "name": "Collier",
           "nameShort": "Collier",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 17,
-          "reported": 17,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "23.53",
           "closingTime": null,
           "isClosed": null
         },
@@ -7062,7 +7196,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2496,
@@ -7076,7 +7210,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Collier/Greater Naples Fire Rescue District 5 Seat 5/Biondo, Dominick",
+            "path": "2024 November Election Local Races/Collier/Greater Naples Fire Rescue District 5 Seat 5/Biondo, Dominick",
             "notes": null,
             "party": {
               "name": null,
@@ -7091,7 +7225,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -7122,7 +7256,7 @@
             "headShot": {
               "media": null
             },
-            "path": "2024 November Election/Florida - Collier/Greater Naples Fire Rescue District 5 Seat 5/Tuff, Russell",
+            "path": "2024 November Election Local Races/Collier/Greater Naples Fire Rescue District 5 Seat 5/Tuff, Russell",
             "notes": null,
             "party": {
               "name": null,
@@ -7137,7 +7271,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -7169,19 +7303,19 @@
         },
         "area": {
           "id": 88,
-          "name": "Florida - Collier",
+          "name": "Collier",
           "nameShort": "Collier",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 4,
         "polls": {
           "total": 3,
-          "reported": 3,
-          "reportedPercent": "100",
+          "reported": 0,
+          "reportedPercent": "0",
           "closingTime": null,
           "isClosed": null
         },
@@ -7190,7 +7324,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T09:26:28-04:00",
         "choice": [
           {
             "id": 2498,
@@ -7225,7 +7359,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Marco Island City Council/Blonna, Richard",
+            "path": "2024 November Election Local Races/Collier/Marco Island City Council/Blonna, Richard",
             "notes": null,
             "party": {
               "name": null,
@@ -7240,7 +7374,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4170,
+              "total": 1668,
               "votePercent": 41.7
             },
             "position": 1,
@@ -7292,7 +7426,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Marco Island City Council/Goehler, Tamara",
+            "path": "2024 November Election Local Races/Collier/Marco Island City Council/Goehler, Tamara",
             "notes": null,
             "party": {
               "name": null,
@@ -7307,7 +7441,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 3170,
+              "total": 1268,
               "votePercent": 31.7
             },
             "position": 2,
@@ -7359,7 +7493,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Marco Island City Council/Gray, Stephen",
+            "path": "2024 November Election Local Races/Collier/Marco Island City Council/Gray, Stephen",
             "notes": null,
             "party": {
               "name": null,
@@ -7374,7 +7508,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 2170,
+              "total": 868,
               "votePercent": 21.7
             },
             "position": 3,
@@ -7426,7 +7560,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - Collier/Marco Island City Council/Henry, Deb",
+            "path": "2024 November Election Local Races/Collier/Marco Island City Council/Henry, Deb",
             "notes": null,
             "party": {
               "name": null,
@@ -7441,7 +7575,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 490,
+              "total": 196,
               "votePercent": 4.9
             },
             "position": 4,
@@ -7493,7 +7627,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Marco Island City Council/Irwin, Becky",
+            "path": "2024 November Election Local Races/Collier/Marco Island City Council/Irwin, Becky",
             "notes": null,
             "party": {
               "name": null,
@@ -7560,7 +7694,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Marco Island City Council/Schwan, Bonita",
+            "path": "2024 November Election Local Races/Collier/Marco Island City Council/Schwan, Bonita",
             "notes": null,
             "party": {
               "name": null,
@@ -7602,24 +7736,24 @@
           "id": 461,
           "name": "Collier School District Referendum",
           "nameShort": null,
-          "notes": "Collier County Public Schools shall be provided with\r\ncontinued tax-neutral flexible funding to (a) reduce ad valorem taxes up to .35 mills for capital funding; (b) add up to .35 mills of ad valorem taxes for operating funding; and (c) provide charter schools with their proportionate share.",
-          "modifiedDate": "2024-10-21T11:54:19-04:00"
+          "notes": null,
+          "modifiedDate": "2024-10-30T17:39:51-04:00"
         },
         "area": {
           "id": 88,
-          "name": "Florida - Collier",
+          "name": "Collier",
           "nameShort": "Collier",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
         },
         "contestType": "Referendum",
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 67,
-          "reported": 67,
-          "reportedPercent": "100",
+          "reported": 24,
+          "reportedPercent": "35.82",
           "closingTime": null,
           "isClosed": null
         },
@@ -7628,7 +7762,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2504,
@@ -7663,7 +7797,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Collier School District Referendum/No",
+            "path": "2024 November Election Local Races/Collier/Collier School District Referendum/No",
             "notes": null,
             "party": {
               "name": null,
@@ -7678,7 +7812,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -7730,7 +7864,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/Collier School District Referendum/Yes",
+            "path": "2024 November Election Local Races/Collier/Collier School District Referendum/Yes",
             "notes": null,
             "party": {
               "name": null,
@@ -7745,7 +7879,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -7777,19 +7911,19 @@
         },
         "area": {
           "id": 77,
-          "name": "Florida - Charlotte",
+          "name": "Charlotte",
           "nameShort": "Charlotte",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:51-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 79,
-          "reported": 79,
-          "reportedPercent": "100",
+          "reported": 28,
+          "reportedPercent": "35.44",
           "closingTime": null,
           "isClosed": null
         },
@@ -7798,7 +7932,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2583,
@@ -7833,7 +7967,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Charlotte/Charlotte County Court Judge Group 1/Lux, Sean",
+            "path": "2024 November Election Local Races/Charlotte/Charlotte County Court Judge Group 1/Lux, Sean",
             "notes": null,
             "party": {
               "name": null,
@@ -7848,7 +7982,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -7900,7 +8034,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - Charlotte/Charlotte County Court Judge Group 1/Wallace, Kathryn",
+            "path": "2024 November Election Local Races/Charlotte/Charlotte County Court Judge Group 1/Wallace, Kathryn",
             "notes": null,
             "party": {
               "name": null,
@@ -7915,7 +8049,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -7947,19 +8081,19 @@
         },
         "area": {
           "id": 77,
-          "name": "Florida - Charlotte",
+          "name": "Charlotte",
           "nameShort": "Charlotte",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:51-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 14,
-          "reported": 14,
-          "reportedPercent": "100",
+          "reported": 4,
+          "reportedPercent": "28.57",
           "closingTime": null,
           "isClosed": null
         },
@@ -7968,7 +8102,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 2586,
@@ -8003,7 +8137,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Charlotte/Punta Gorda City Council District 4/Denton, Janis",
+            "path": "2024 November Election Local Races/Charlotte/Punta Gorda City Council District 4/Denton, Janis",
             "notes": null,
             "party": {
               "name": null,
@@ -8018,7 +8152,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 5500,
+              "total": 2200,
               "votePercent": 55.0
             },
             "position": 1,
@@ -8070,7 +8204,7 @@
                 "alpha": true
               }
             },
-            "path": "2024 November Election/Florida - Charlotte/Punta Gorda City Council District 4/Matthews, Lynne",
+            "path": "2024 November Election Local Races/Charlotte/Punta Gorda City Council District 4/Matthews, Lynne",
             "notes": null,
             "party": {
               "name": null,
@@ -8085,7 +8219,7 @@
               "modifiedDate": null
             },
             "votes": {
-              "total": 4500,
+              "total": 1800,
               "votePercent": 45.0
             },
             "position": 2,
@@ -8117,19 +8251,19 @@
         },
         "area": {
           "id": 67,
-          "name": "Florida - Lee",
+          "name": "Lee",
           "nameShort": "Lee",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:00-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 99,
-          "reported": 99,
-          "reportedPercent": "100",
+          "reported": 36,
+          "reportedPercent": "36.36",
           "closingTime": null,
           "isClosed": null
         },
@@ -8138,7 +8272,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:45-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 3280,
@@ -8173,7 +8307,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/President Lee County Results/De la Cruz, Claudia",
+            "path": "2024 November Election Local Races/Lee/President Lee County Results/De la Cruz, Claudia",
             "notes": null,
             "party": {
               "name": "PSL",
@@ -8188,7 +8322,7 @@
               "modifiedDate": "2024-10-21T13:06:34-04:00"
             },
             "votes": {
-              "total": 4430,
+              "total": 1772,
               "votePercent": 44.3
             },
             "position": 1,
@@ -8240,7 +8374,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/President Lee County Results/Harris, Kamala",
+            "path": "2024 November Election Local Races/Lee/President Lee County Results/Harris, Kamala",
             "notes": null,
             "party": {
               "name": "DEMOCRAT",
@@ -8255,7 +8389,7 @@
               "modifiedDate": "2024-08-20T16:10:25-04:00"
             },
             "votes": {
-              "total": 3430,
+              "total": 1372,
               "votePercent": 34.3
             },
             "position": 2,
@@ -8307,7 +8441,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/President Lee County Results/Oliver, Chase",
+            "path": "2024 November Election Local Races/Lee/President Lee County Results/Oliver, Chase",
             "notes": null,
             "party": {
               "name": "Libertarian",
@@ -8322,7 +8456,7 @@
               "modifiedDate": "2024-03-14T15:10:24-04:00"
             },
             "votes": {
-              "total": 2140,
+              "total": 856,
               "votePercent": 21.4
             },
             "position": 3,
@@ -8374,7 +8508,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/President Lee County Results/Sonski, Peter",
+            "path": "2024 November Election Local Races/Lee/President Lee County Results/Sonski, Peter",
             "notes": null,
             "party": {
               "name": "ASP",
@@ -8441,7 +8575,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/President Lee County Results/Stein, Jill",
+            "path": "2024 November Election Local Races/Lee/President Lee County Results/Stein, Jill",
             "notes": null,
             "party": {
               "name": "Green",
@@ -8508,7 +8642,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/President Lee County Results/Terry, Randall",
+            "path": "2024 November Election Local Races/Lee/President Lee County Results/Terry, Randall",
             "notes": null,
             "party": {
               "name": "Constitution",
@@ -8575,7 +8709,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Lee/President Lee County Results/Trump, Donald",
+            "path": "2024 November Election Local Races/Lee/President Lee County Results/Trump, Donald",
             "notes": null,
             "party": {
               "name": "Republican",
@@ -8622,19 +8756,19 @@
         },
         "area": {
           "id": 88,
-          "name": "Florida - Collier",
+          "name": "Collier",
           "nameShort": "Collier",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-30T14:52:47-04:00"
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 67,
-          "reported": 67,
-          "reportedPercent": "100",
+          "reported": 24,
+          "reportedPercent": "35.82",
           "closingTime": null,
           "isClosed": null
         },
@@ -8643,7 +8777,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 3290,
@@ -8678,7 +8812,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/President Collier County Results/De la Cruz, Claudia",
+            "path": "2024 November Election Local Races/Collier/President Collier County Results/De la Cruz, Claudia",
             "notes": null,
             "party": {
               "name": "PSL",
@@ -8693,7 +8827,7 @@
               "modifiedDate": "2024-10-21T13:06:34-04:00"
             },
             "votes": {
-              "total": 4430,
+              "total": 1772,
               "votePercent": 44.3
             },
             "position": 1,
@@ -8745,7 +8879,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/President Collier County Results/Harris, Kamala",
+            "path": "2024 November Election Local Races/Collier/President Collier County Results/Harris, Kamala",
             "notes": null,
             "party": {
               "name": "DEMOCRAT",
@@ -8760,7 +8894,7 @@
               "modifiedDate": "2024-08-20T16:10:25-04:00"
             },
             "votes": {
-              "total": 3430,
+              "total": 1372,
               "votePercent": 34.3
             },
             "position": 2,
@@ -8812,7 +8946,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/President Collier County Results/Oliver, Chase",
+            "path": "2024 November Election Local Races/Collier/President Collier County Results/Oliver, Chase",
             "notes": null,
             "party": {
               "name": "Libertarian",
@@ -8827,7 +8961,7 @@
               "modifiedDate": "2024-03-14T15:10:24-04:00"
             },
             "votes": {
-              "total": 2140,
+              "total": 856,
               "votePercent": 21.4
             },
             "position": 3,
@@ -8879,7 +9013,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/President Collier County Results/Sonski, Peter",
+            "path": "2024 November Election Local Races/Collier/President Collier County Results/Sonski, Peter",
             "notes": null,
             "party": {
               "name": "ASP",
@@ -8946,7 +9080,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/President Collier County Results/Stein, Jill",
+            "path": "2024 November Election Local Races/Collier/President Collier County Results/Stein, Jill",
             "notes": null,
             "party": {
               "name": "Green",
@@ -9013,7 +9147,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/President Collier County Results/Terry, Randall",
+            "path": "2024 November Election Local Races/Collier/President Collier County Results/Terry, Randall",
             "notes": null,
             "party": {
               "name": "Constitution",
@@ -9080,7 +9214,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Florida - Collier/President Collier County Results/Trump, Donald",
+            "path": "2024 November Election Local Races/Collier/President Collier County Results/Trump, Donald",
             "notes": null,
             "party": {
               "name": "Republican",
@@ -9126,20 +9260,20 @@
           "modifiedDate": "2024-10-24T12:20:04-04:00"
         },
         "area": {
-          "id": 22,
-          "name": "Charlotte County",
+          "id": 77,
+          "name": "Charlotte",
           "nameShort": "Charlotte",
           "notes": null,
           "code": null,
-          "modifiedDate": "2024-07-25T11:59:35-04:00"
+          "modifiedDate": "2024-10-30T17:29:51-04:00"
         },
         "contestType": null,
         "notes": null,
         "positions": 1,
         "polls": {
           "total": 79,
-          "reported": 79,
-          "reportedPercent": "100",
+          "reported": 28,
+          "reportedPercent": "35.44",
           "closingTime": null,
           "isClosed": null
         },
@@ -9148,7 +9282,7 @@
         "dbVotesPercent": "",
         "dbVotesPercentPrevious": "",
         "sortType": "",
-        "modifiedDate": "2024-10-28T12:30:44-04:00",
+        "modifiedDate": "2024-10-31T13:38:25-04:00",
         "choice": [
           {
             "id": 3294,
@@ -9183,7 +9317,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Charlotte County/President Charlotte County Results/De la Cruz, Claudia",
+            "path": "2024 November Election Local Races/Charlotte/President Charlotte County Results/De la Cruz, Claudia",
             "notes": null,
             "party": {
               "name": "PSL",
@@ -9198,7 +9332,7 @@
               "modifiedDate": "2024-10-21T13:06:34-04:00"
             },
             "votes": {
-              "total": 4430,
+              "total": 1772,
               "votePercent": 44.3
             },
             "position": 1,
@@ -9250,7 +9384,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Charlotte County/President Charlotte County Results/Harris, Kamala",
+            "path": "2024 November Election Local Races/Charlotte/President Charlotte County Results/Harris, Kamala",
             "notes": null,
             "party": {
               "name": "DEMOCRAT",
@@ -9265,7 +9399,7 @@
               "modifiedDate": "2024-08-20T16:10:25-04:00"
             },
             "votes": {
-              "total": 3430,
+              "total": 1372,
               "votePercent": 34.3
             },
             "position": 2,
@@ -9317,7 +9451,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Charlotte County/President Charlotte County Results/Oliver, Chase",
+            "path": "2024 November Election Local Races/Charlotte/President Charlotte County Results/Oliver, Chase",
             "notes": null,
             "party": {
               "name": "Libertarian",
@@ -9332,7 +9466,7 @@
               "modifiedDate": "2024-03-14T15:10:24-04:00"
             },
             "votes": {
-              "total": 2140,
+              "total": 856,
               "votePercent": 21.4
             },
             "position": 3,
@@ -9384,7 +9518,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Charlotte County/President Charlotte County Results/Sonski, Peter",
+            "path": "2024 November Election Local Races/Charlotte/President Charlotte County Results/Sonski, Peter",
             "notes": null,
             "party": {
               "name": "ASP",
@@ -9451,7 +9585,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Charlotte County/President Charlotte County Results/Stein, Jill",
+            "path": "2024 November Election Local Races/Charlotte/President Charlotte County Results/Stein, Jill",
             "notes": null,
             "party": {
               "name": "Green",
@@ -9518,7 +9652,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Charlotte County/President Charlotte County Results/Terry, Randall",
+            "path": "2024 November Election Local Races/Charlotte/President Charlotte County Results/Terry, Randall",
             "notes": null,
             "party": {
               "name": "Constitution",
@@ -9585,7 +9719,7 @@
                 "alpha": false
               }
             },
-            "path": "2024 November Election/Charlotte County/President Charlotte County Results/Trump, Donald",
+            "path": "2024 November Election Local Races/Charlotte/President Charlotte County Results/Trump, Donald",
             "notes": null,
             "party": {
               "name": "Republican",
@@ -9604,6 +9738,1536 @@
               "votePercent": 0.0
             },
             "position": 7,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 9015,
+        "office": {
+          "id": 499,
+          "name": "Amendment 1: Partisan Elections For School Boards (Collier)",
+          "nameShort": "Collier Amend 1",
+          "notes": null,
+          "modifiedDate": "2024-10-30T18:23:50-04:00"
+        },
+        "area": {
+          "id": 88,
+          "name": "Collier",
+          "nameShort": "Collier",
+          "notes": null,
+          "code": null,
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
+        },
+        "contestType": "referendum",
+        "notes": null,
+        "positions": 1,
+        "polls": {
+          "total": 67,
+          "reported": 0,
+          "reportedPercent": "0",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoffEligible": false,
+        "isRunoff": false,
+        "dbVotesPercent": "",
+        "dbVotesPercentPrevious": "",
+        "sortType": "",
+        "modifiedDate": "2024-10-31T12:08:28-04:00",
+        "choice": [
+          {
+            "id": 22753,
+            "elected": false,
+            "name": "Yes",
+            "name2": "Yes",
+            "firstName": "Yes",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 202,
+                "name": "YES",
+                "localUrl": "http://localhost/tickit/blade/media/202.png",
+                "fileName": "YES.png",
+                "extension": "png",
+                "length": 7411,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:10:17-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 1: Partisan Elections For School Boards (Collier)/Yes",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 22754,
+            "elected": false,
+            "name": "No",
+            "name2": "No",
+            "firstName": "No",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 201,
+                "name": "NO",
+                "localUrl": "http://localhost/tickit/blade/media/201.png",
+                "fileName": "NO.png",
+                "extension": "png",
+                "length": 7639,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:09:53-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 1: Partisan Elections For School Boards (Collier)/No",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 9017,
+        "office": {
+          "id": 506,
+          "name": "Amendment 3: Legalize recreational marijuana (Collier)",
+          "nameShort": "Collier Amend 3",
+          "notes": null,
+          "modifiedDate": "2024-10-31T11:56:27-04:00"
+        },
+        "area": {
+          "id": 88,
+          "name": "Collier",
+          "nameShort": "Collier",
+          "notes": null,
+          "code": null,
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
+        },
+        "contestType": "referendum",
+        "notes": null,
+        "positions": 1,
+        "polls": {
+          "total": 67,
+          "reported": 0,
+          "reportedPercent": "0",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoffEligible": false,
+        "isRunoff": false,
+        "dbVotesPercent": "",
+        "dbVotesPercentPrevious": "",
+        "sortType": "",
+        "modifiedDate": "2024-10-31T12:08:35-04:00",
+        "choice": [
+          {
+            "id": 22757,
+            "elected": false,
+            "name": "No",
+            "name2": "No",
+            "firstName": "No",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 201,
+                "name": "NO",
+                "localUrl": "http://localhost/tickit/blade/media/201.png",
+                "fileName": "NO.png",
+                "extension": "png",
+                "length": 7639,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:09:53-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 3: Legalize recreational marijuana (Collier)/No",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 22758,
+            "elected": false,
+            "name": "Yes",
+            "name2": "Yes",
+            "firstName": "Yes",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 202,
+                "name": "YES",
+                "localUrl": "http://localhost/tickit/blade/media/202.png",
+                "fileName": "YES.png",
+                "extension": "png",
+                "length": 7411,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:10:17-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 3: Legalize recreational marijuana (Collier)/Yes",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 9020,
+        "office": {
+          "id": 504,
+          "name": "Amendment 2: Right to Hunt and Fish (Collier)",
+          "nameShort": "Collier Amend 2",
+          "notes": null,
+          "modifiedDate": "2024-10-31T12:39:03-04:00"
+        },
+        "area": {
+          "id": 88,
+          "name": "Collier",
+          "nameShort": "Collier",
+          "notes": null,
+          "code": null,
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
+        },
+        "contestType": "referendum",
+        "notes": null,
+        "positions": 1,
+        "polls": {
+          "total": 67,
+          "reported": 0,
+          "reportedPercent": "0",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoffEligible": false,
+        "isRunoff": false,
+        "dbVotesPercent": "",
+        "dbVotesPercentPrevious": "",
+        "sortType": "",
+        "modifiedDate": "2024-10-31T13:54:27-04:00",
+        "choice": [
+          {
+            "id": 22759,
+            "elected": true,
+            "name": "No",
+            "name2": "No",
+            "firstName": "No",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 201,
+                "name": "NO",
+                "localUrl": "http://localhost/tickit/blade/media/201.png",
+                "fileName": "NO.png",
+                "extension": "png",
+                "length": 7639,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:09:53-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 2: Right to Hunt and Fish (Collier)/No",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 22760,
+            "elected": false,
+            "name": "Yes",
+            "name2": "Yes",
+            "firstName": "Yes",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 202,
+                "name": "YES",
+                "localUrl": "http://localhost/tickit/blade/media/202.png",
+                "fileName": "YES.png",
+                "extension": "png",
+                "length": 7411,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:10:17-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 2: Right to Hunt and Fish (Collier)/Yes",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 9021,
+        "office": {
+          "id": 507,
+          "name": "Amendment 4: Constitutional Right to Abortion (Collier)",
+          "nameShort": "Collier Amend 4",
+          "notes": null,
+          "modifiedDate": "2024-10-31T12:07:36-04:00"
+        },
+        "area": {
+          "id": 88,
+          "name": "Collier",
+          "nameShort": "Collier",
+          "notes": null,
+          "code": null,
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
+        },
+        "contestType": "referendum",
+        "notes": null,
+        "positions": 1,
+        "polls": {
+          "total": 67,
+          "reported": 0,
+          "reportedPercent": "0",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoffEligible": false,
+        "isRunoff": false,
+        "dbVotesPercent": "",
+        "dbVotesPercentPrevious": "",
+        "sortType": "",
+        "modifiedDate": "2024-10-31T12:08:14-04:00",
+        "choice": [
+          {
+            "id": 22761,
+            "elected": false,
+            "name": "No",
+            "name2": "No",
+            "firstName": "No",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 201,
+                "name": "NO",
+                "localUrl": "http://localhost/tickit/blade/media/201.png",
+                "fileName": "NO.png",
+                "extension": "png",
+                "length": 7639,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:09:53-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 4: Constitutional Right to Abortion (Collier)/No",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 22762,
+            "elected": false,
+            "name": "Yes",
+            "name2": "Yes",
+            "firstName": "Yes",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 202,
+                "name": "YES",
+                "localUrl": "http://localhost/tickit/blade/media/202.png",
+                "fileName": "YES.png",
+                "extension": "png",
+                "length": 7411,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:10:17-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 4: Constitutional Right to Abortion (Collier)/Yes",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 9022,
+        "office": {
+          "id": 508,
+          "name": "Amendment 5: Homestead property tax exemption adjustment (Collier)",
+          "nameShort": "Collier Amend 5",
+          "notes": null,
+          "modifiedDate": "2024-10-31T12:10:08-04:00"
+        },
+        "area": {
+          "id": 88,
+          "name": "Collier",
+          "nameShort": "Collier",
+          "notes": null,
+          "code": null,
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
+        },
+        "contestType": "referendum",
+        "notes": null,
+        "positions": 1,
+        "polls": {
+          "total": 0,
+          "reported": 0,
+          "reportedPercent": "",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoffEligible": false,
+        "isRunoff": false,
+        "dbVotesPercent": "",
+        "dbVotesPercentPrevious": "",
+        "sortType": "",
+        "modifiedDate": "2024-10-31T12:10:54-04:00",
+        "choice": [
+          {
+            "id": 22763,
+            "elected": false,
+            "name": "No",
+            "name2": "No",
+            "firstName": "No",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 201,
+                "name": "NO",
+                "localUrl": "http://localhost/tickit/blade/media/201.png",
+                "fileName": "NO.png",
+                "extension": "png",
+                "length": 7639,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:09:53-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 5: Homestead property tax exemption adjustment (Collier)/No",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 22764,
+            "elected": false,
+            "name": "Yes",
+            "name2": "Yes",
+            "firstName": "Yes",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 202,
+                "name": "YES",
+                "localUrl": "http://localhost/tickit/blade/media/202.png",
+                "fileName": "YES.png",
+                "extension": "png",
+                "length": 7411,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:10:17-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 5: Homestead property tax exemption adjustment (Collier)/Yes",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 9023,
+        "office": {
+          "id": 509,
+          "name": "Amendment 6: Repeal of Public Campaign Financing (Collier)",
+          "nameShort": "Collier Amend 6",
+          "notes": null,
+          "modifiedDate": "2024-10-31T12:11:44-04:00"
+        },
+        "area": {
+          "id": 88,
+          "name": "Collier",
+          "nameShort": "Collier",
+          "notes": null,
+          "code": null,
+          "modifiedDate": "2024-10-30T17:29:42-04:00"
+        },
+        "contestType": "referendum",
+        "notes": null,
+        "positions": 1,
+        "polls": {
+          "total": 67,
+          "reported": 0,
+          "reportedPercent": "0",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoffEligible": false,
+        "isRunoff": false,
+        "dbVotesPercent": "",
+        "dbVotesPercentPrevious": "",
+        "sortType": "",
+        "modifiedDate": "2024-10-31T12:12:30-04:00",
+        "choice": [
+          {
+            "id": 22765,
+            "elected": false,
+            "name": "No",
+            "name2": "No",
+            "firstName": "No",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 201,
+                "name": "NO",
+                "localUrl": "http://localhost/tickit/blade/media/201.png",
+                "fileName": "NO.png",
+                "extension": "png",
+                "length": 7639,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:09:53-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 6: Repeal of Public Campaign Financing (Collier)/No",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 22766,
+            "elected": false,
+            "name": "Yes",
+            "name2": "Yes",
+            "firstName": "Yes",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 202,
+                "name": "YES",
+                "localUrl": "http://localhost/tickit/blade/media/202.png",
+                "fileName": "YES.png",
+                "extension": "png",
+                "length": 7411,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:10:17-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Collier/Amendment 6: Repeal of Public Campaign Financing (Collier)/Yes",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 9024,
+        "office": {
+          "id": 511,
+          "name": "Amendment 1: Partisan Elections for School Boards (Charlotte)",
+          "nameShort": null,
+          "notes": null,
+          "modifiedDate": "2024-10-31T12:22:12-04:00"
+        },
+        "area": {
+          "id": 77,
+          "name": "Charlotte",
+          "nameShort": "Charlotte",
+          "notes": null,
+          "code": null,
+          "modifiedDate": "2024-10-30T17:29:51-04:00"
+        },
+        "contestType": "referendum",
+        "notes": null,
+        "positions": 1,
+        "polls": {
+          "total": 79,
+          "reported": 0,
+          "reportedPercent": "0",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoffEligible": false,
+        "isRunoff": false,
+        "dbVotesPercent": "",
+        "dbVotesPercentPrevious": "",
+        "sortType": "",
+        "modifiedDate": "2024-10-31T12:30:42-04:00",
+        "choice": [
+          {
+            "id": 22767,
+            "elected": false,
+            "name": "No",
+            "name2": "No",
+            "firstName": "No",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 201,
+                "name": "NO",
+                "localUrl": "http://localhost/tickit/blade/media/201.png",
+                "fileName": "NO.png",
+                "extension": "png",
+                "length": 7639,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:09:53-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Charlotte/Amendment 1: Partisan Elections for School Boards (Charlotte)/No",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 22768,
+            "elected": false,
+            "name": "Yes",
+            "name2": "Yes",
+            "firstName": "Yes",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 202,
+                "name": "YES",
+                "localUrl": "http://localhost/tickit/blade/media/202.png",
+                "fileName": "YES.png",
+                "extension": "png",
+                "length": 7411,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:10:17-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Charlotte/Amendment 1: Partisan Elections for School Boards (Charlotte)/Yes",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 9025,
+        "office": {
+          "id": 512,
+          "name": "Amendment 2: Right to Hunt and Fish (Charlotte)",
+          "nameShort": null,
+          "notes": null,
+          "modifiedDate": "2024-10-31T13:01:07-04:00"
+        },
+        "area": {
+          "id": 77,
+          "name": "Charlotte",
+          "nameShort": "Charlotte",
+          "notes": null,
+          "code": null,
+          "modifiedDate": "2024-10-30T17:29:51-04:00"
+        },
+        "contestType": "referendum",
+        "notes": null,
+        "positions": 1,
+        "polls": {
+          "total": 79,
+          "reported": 0,
+          "reportedPercent": "0",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoffEligible": false,
+        "isRunoff": false,
+        "dbVotesPercent": "",
+        "dbVotesPercentPrevious": "",
+        "sortType": "",
+        "modifiedDate": "2024-10-31T13:01:52-04:00",
+        "choice": [
+          {
+            "id": 22769,
+            "elected": false,
+            "name": "Yes",
+            "name2": "Yes",
+            "firstName": "Yes",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 202,
+                "name": "YES",
+                "localUrl": "http://localhost/tickit/blade/media/202.png",
+                "fileName": "YES.png",
+                "extension": "png",
+                "length": 7411,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:10:17-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Charlotte/Amendment 2: Right to Hunt and Fish (Charlotte)/Yes",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 22770,
+            "elected": false,
+            "name": "No",
+            "name2": "No",
+            "firstName": "No",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 201,
+                "name": "NO",
+                "localUrl": "http://localhost/tickit/blade/media/201.png",
+                "fileName": "NO.png",
+                "extension": "png",
+                "length": 7639,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:09:53-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Charlotte/Amendment 2: Right to Hunt and Fish (Charlotte)/No",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          }
+        ]
+      },
+      {
+        "id": 9026,
+        "office": {
+          "id": 513,
+          "name": "Amendment 3: Legalize Recreational Marijuana (Charlotte)",
+          "nameShort": null,
+          "notes": null,
+          "modifiedDate": "2024-10-31T13:03:15-04:00"
+        },
+        "area": {
+          "id": 77,
+          "name": "Charlotte",
+          "nameShort": "Charlotte",
+          "notes": null,
+          "code": null,
+          "modifiedDate": "2024-10-30T17:29:51-04:00"
+        },
+        "contestType": "referendum",
+        "notes": null,
+        "positions": 1,
+        "polls": {
+          "total": 79,
+          "reported": 0,
+          "reportedPercent": "0",
+          "closingTime": null,
+          "isClosed": null
+        },
+        "runoffEligible": false,
+        "isRunoff": false,
+        "dbVotesPercent": "",
+        "dbVotesPercentPrevious": "",
+        "sortType": "",
+        "modifiedDate": "2024-10-31T13:03:15-04:00",
+        "choice": [
+          {
+            "id": 22771,
+            "elected": false,
+            "name": "No",
+            "name2": "No",
+            "firstName": "No",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 201,
+                "name": "NO",
+                "localUrl": "http://localhost/tickit/blade/media/201.png",
+                "fileName": "NO.png",
+                "extension": "png",
+                "length": 7639,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:09:53-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Charlotte/Amendment 3: Legalize Recreational Marijuana (Charlotte)/No",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 1,
+            "previousVotes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "votes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "previousVotes2": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "dbVotesPercent": 0.0,
+            "dbVotesPercentPrevious": 0.0
+          },
+          {
+            "id": 22772,
+            "elected": false,
+            "name": "Yes",
+            "name2": "Yes",
+            "firstName": "Yes",
+            "lastName": "",
+            "incumbent": false,
+            "acclaimed": false,
+            "headShot": {
+              "media": {
+                "id": 202,
+                "name": "YES",
+                "localUrl": "http://localhost/tickit/blade/media/202.png",
+                "fileName": "YES.png",
+                "extension": "png",
+                "length": 7411,
+                "height": 500,
+                "width": 500,
+                "duration": null,
+                "loop": false,
+                "mimeType": "image/png",
+                "url": "",
+                "savedPath": "",
+                "caption": null,
+                "keywords": null,
+                "modifiedDate": "2024-07-26T20:10:17-04:00",
+                "datafeedId": null,
+                "datafeedChar": "",
+                "source": null,
+                "alpha": false
+              }
+            },
+            "path": "2024 November Election Local Races/Charlotte/Amendment 3: Legalize Recreational Marijuana (Charlotte)/Yes",
+            "notes": null,
+            "party": {
+              "name": null,
+              "nameShort": null,
+              "nameAlt": null,
+              "notes": null,
+              "main": false,
+              "color": "",
+              "logo": {
+                "media": null
+              },
+              "modifiedDate": null
+            },
+            "votes": {
+              "total": 0,
+              "votePercent": 0.0
+            },
+            "position": 2,
             "previousVotes": {
               "total": 0,
               "votePercent": 0.0

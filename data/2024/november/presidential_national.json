@@ -1,0 +1,2781 @@
+{
+    "generated": "2024-11-01T15:25:55.8833076Z",
+    "ElectionEvent": {
+      "id": 45,
+      "date": "2024-11-05T00:00:00",
+      "name": "2024 Presidental National",
+      "nameShort": "2024 Presidental National",
+      "type": "General Election",
+      "notes": null,
+      "timeZone": "Eastern Standard Time",
+      "contestSortTypeCode": "",
+      "partySortTypeCode": "",
+      "modifiedDate": "2024-10-31T14:49:00-04:00",
+      "genericHeadshot": {
+        "media": null
+      },
+      "contest": [
+        {
+          "id": 9435,
+          "office": {
+            "id": 462,
+            "name": "President",
+            "nameShort": "President",
+            "notes": null,
+            "modifiedDate": "2024-10-21T13:06:34-04:00"
+          },
+          "area": {
+            "id": 222,
+            "name": "United States",
+            "nameShort": "US",
+            "notes": null,
+            "code": null,
+            "modifiedDate": "2024-10-29T14:28:35-04:00"
+          },
+          "contestType": "General",
+          "notes": null,
+          "positions": 1,
+          "polls": {
+            "total": 174267,
+            "reported": 77056,
+            "reportedPercent": "44.22",
+            "closingTime": null,
+            "isClosed": null
+          },
+          "runoffEligible": false,
+          "isRunoff": false,
+          "dbVotesPercent": "0",
+          "dbVotesPercentPrevious": "",
+          "sortType": "",
+          "modifiedDate": "2024-11-01T11:24:56-04:00",
+          "officename": "President",
+          "seatname": "",
+          "party": "",
+          "choice": [
+            {
+              "id": 23589,
+              "elected": false,
+              "name": "Harris, Kamala",
+              "name2": "Kamala Harris",
+              "firstName": "Kamala",
+              "lastName": "Harris",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 1333,
+                  "name": "HARRIS_Kamala",
+                  "localUrl": "http://localhost/tickit/blade/media/1333.jpg",
+                  "fileName": "HARRIS_Kamala.jpg",
+                  "extension": "jpg",
+                  "length": 650660,
+                  "height": 2400,
+                  "width": 2400,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/jpeg",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-10-18T10:49:39-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/President/Harris, Kamala",
+              "notes": null,
+              "party": {
+                "name": "DEMOCRAT",
+                "nameShort": "DEM",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#1334A4",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-08-20T16:10:25-04:00"
+              },
+              "votes": {
+                "total": 34034063,
+                "votePercent": 50.16
+              },
+              "position": 1,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23591,
+              "elected": false,
+              "name": "Trump, Donald",
+              "name2": "Donald Trump",
+              "firstName": "Donald",
+              "lastName": "Trump",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 2825,
+                  "name": "TRUMP_Donald",
+                  "localUrl": "http://localhost/tickit/blade/media/2825.png",
+                  "fileName": "TRUMP_Donald.png",
+                  "extension": "png",
+                  "length": 384961,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": "",
+                  "savedPath": "",
+                  "caption": null,
+                  "keywords": null,
+                  "modifiedDate": "2024-10-25T17:20:14-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": null,
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/President/Trump, Donald",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 32769206,
+                "votePercent": 48.3
+              },
+              "position": 2,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23593,
+              "elected": false,
+              "name": "Oliver, Chase",
+              "name2": "Chase Oliver",
+              "firstName": "Chase",
+              "lastName": "Oliver",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 633,
+                  "name": "OLIVER_Chase",
+                  "localUrl": "http://localhost/tickit/blade/media/633.jpeg",
+                  "fileName": "OLIVER_Chase.jpeg",
+                  "extension": "jpeg",
+                  "length": 59434,
+                  "height": 558,
+                  "width": 558,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/jpeg",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-10-18T10:48:09-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/President/Oliver, Chase",
+              "notes": null,
+              "party": {
+                "name": "Libertarian",
+                "nameShort": "LIB",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 324060,
+                "votePercent": 0.48
+              },
+              "position": 3,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23595,
+              "elected": false,
+              "name": "Stein, Jill",
+              "name2": "Jill Stein",
+              "firstName": "Jill",
+              "lastName": "Stein",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 2795,
+                  "name": "STEIN_Jill",
+                  "localUrl": "http://localhost/tickit/blade/media/2795.jpeg",
+                  "fileName": "STEIN_Jill.jpeg",
+                  "extension": "jpeg",
+                  "length": 43262,
+                  "height": 480,
+                  "width": 480,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/jpeg",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-10-22T12:53:23-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/President/Stein, Jill",
+              "notes": null,
+              "party": {
+                "name": "Green",
+                "nameShort": "GRN",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 193397,
+                "votePercent": 0.29
+              },
+              "position": 4,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23597,
+              "elected": false,
+              "name": "Kennedy, Robert",
+              "name2": "Robert Kennedy",
+              "firstName": "Robert",
+              "lastName": "Kennedy",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Kennedy, Robert",
+              "notes": null,
+              "party": {
+                "name": "Petitioning Candidate",
+                "nameShort": "PEC",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 189708,
+                "votePercent": 0.28
+              },
+              "position": 5,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23599,
+              "elected": false,
+              "name": "De la Cruz, Claudia",
+              "name2": "Claudia De la Cruz",
+              "firstName": "Claudia",
+              "lastName": "De la Cruz",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 2832,
+                  "name": "DE-LA-CRUZ_Claudia",
+                  "localUrl": "http://localhost/tickit/blade/media/2832.png",
+                  "fileName": "DE-LA-CRUZ_Claudia.png",
+                  "extension": "png",
+                  "length": 429953,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": "",
+                  "savedPath": "",
+                  "caption": null,
+                  "keywords": null,
+                  "modifiedDate": "2024-10-25T17:24:23-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": null,
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/President/De la Cruz, Claudia",
+              "notes": null,
+              "party": {
+                "name": "PSL",
+                "nameShort": "PSL",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-21T13:06:34-04:00"
+              },
+              "votes": {
+                "total": 122727,
+                "votePercent": 0.18
+              },
+              "position": 6,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23601,
+              "elected": false,
+              "name": "West, Cornel",
+              "name2": "Cornel West",
+              "firstName": "Cornel",
+              "lastName": "West",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/West, Cornel",
+              "notes": null,
+              "party": {
+                "name": "AUR",
+                "nameShort": "AUR",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 44098,
+                "votePercent": 0.06
+              },
+              "position": 7,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23603,
+              "elected": false,
+              "name": "Terry, Randall",
+              "name2": "Randall Terry",
+              "firstName": "Randall",
+              "lastName": "Terry",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 2824,
+                  "name": "TERRY_Randall",
+                  "localUrl": "http://localhost/tickit/blade/media/2824.png",
+                  "fileName": "TERRY_Randall.png",
+                  "extension": "png",
+                  "length": 263429,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": "",
+                  "savedPath": "",
+                  "caption": null,
+                  "keywords": null,
+                  "modifiedDate": "2024-10-25T17:19:55-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": null,
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/President/Terry, Randall",
+              "notes": null,
+              "party": {
+                "name": "Constitution",
+                "nameShort": "CST",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 39914,
+                "votePercent": 0.06
+              },
+              "position": 8,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23605,
+              "elected": false,
+              "name": "Ayyadurai, Shiva",
+              "name2": "Shiva Ayyadurai",
+              "firstName": "Shiva",
+              "lastName": "Ayyadurai",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Ayyadurai, Shiva",
+              "notes": null,
+              "party": {
+                "name": "No Party Affiliation",
+                "nameShort": "NPA",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#33CC33",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-21T14:35:15-04:00"
+              },
+              "votes": {
+                "total": 26076,
+                "votePercent": 0.04
+              },
+              "position": 9,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23609,
+              "elected": false,
+              "name": "Sonski, Peter",
+              "name2": "Peter Sonski",
+              "firstName": "Peter",
+              "lastName": "Sonski",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 1995,
+                  "name": "SONSKI_Peter",
+                  "localUrl": "http://localhost/tickit/blade/media/1995.jpg",
+                  "fileName": "SONSKI_Peter.jpg",
+                  "extension": "jpg",
+                  "length": 118889,
+                  "height": 750,
+                  "width": 750,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/jpeg",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-10-18T10:51:03-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/President/Sonski, Peter",
+              "notes": null,
+              "party": {
+                "name": "ASP",
+                "nameShort": "ASP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-21T13:06:34-04:00"
+              },
+              "votes": {
+                "total": 18305,
+                "votePercent": 0.03
+              },
+              "position": 10,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23607,
+              "elected": false,
+              "name": "Duncan, Richard",
+              "name2": "Richard Duncan",
+              "firstName": "Richard",
+              "lastName": "Duncan",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Duncan, Richard",
+              "notes": null,
+              "party": {
+                "name": "No Party Affiliation",
+                "nameShort": "NPA",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#33CC33",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-21T14:35:15-04:00"
+              },
+              "votes": {
+                "total": 18068,
+                "votePercent": 0.03
+              },
+              "position": 11,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23611,
+              "elected": false,
+              "name": "Fruit, Rachele",
+              "name2": "Rachele Fruit",
+              "firstName": "Rachele",
+              "lastName": "Fruit",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Fruit, Rachele",
+              "notes": null,
+              "party": {
+                "name": "SWP",
+                "nameShort": "SWP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 14027,
+                "votePercent": 0.02
+              },
+              "position": 12,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23613,
+              "elected": false,
+              "name": "Bowman, Jay",
+              "name2": "Jay Bowman",
+              "firstName": "Jay",
+              "lastName": "Bowman",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Bowman, Jay",
+              "notes": null,
+              "party": {
+                "name": "Independent",
+                "nameShort": "IND",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 11536,
+                "votePercent": 0.02
+              },
+              "position": 13,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23615,
+              "elected": false,
+              "name": "Kishore, Joseph",
+              "name2": "Joseph Kishore",
+              "firstName": "Joseph",
+              "lastName": "Kishore",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Kishore, Joseph",
+              "notes": null,
+              "party": {
+                "name": "No Party Affiliation",
+                "nameShort": "NPA",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#33CC33",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-21T14:35:15-04:00"
+              },
+              "votes": {
+                "total": 9993,
+                "votePercent": 0.01
+              },
+              "position": 14,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23617,
+              "elected": false,
+              "name": "Skousen, Joel",
+              "name2": "Joel Skousen",
+              "firstName": "Joel",
+              "lastName": "Skousen",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Skousen, Joel",
+              "notes": null,
+              "party": {
+                "name": "Constitution",
+                "nameShort": "CST",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 9081,
+                "votePercent": 0.01
+              },
+              "position": 15,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23625,
+              "elected": false,
+              "name": "None of These Candidates",
+              "name2": "None of These Candidates",
+              "firstName": "",
+              "lastName": "None of These Candidates",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/None of These Candidates",
+              "notes": null,
+              "party": {
+                "name": "No Party Designation",
+                "nameShort": "NPD",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 4720,
+                "votePercent": 0.01
+              },
+              "position": 16,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23619,
+              "elected": false,
+              "name": "Everylove, Lucifer",
+              "name2": "Lucifer Everylove",
+              "firstName": "Lucifer",
+              "lastName": "Everylove",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Everylove, Lucifer",
+              "notes": null,
+              "party": {
+                "name": "Unaffiliated",
+                "nameShort": "UNA",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 3755,
+                "votePercent": 0.01
+              },
+              "position": 17,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23623,
+              "elected": false,
+              "name": "Garrity, Chris",
+              "name2": "Chris Garrity",
+              "firstName": "Chris",
+              "lastName": "Garrity",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Garrity, Chris",
+              "notes": null,
+              "party": {
+                "name": "Independent",
+                "nameShort": "IND",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 3610,
+                "votePercent": 0.01
+              },
+              "position": 18,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23621,
+              "elected": false,
+              "name": "Ebke, Laura",
+              "name2": "Laura Ebke",
+              "firstName": "Laura",
+              "lastName": "Ebke",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Ebke, Laura",
+              "notes": null,
+              "party": {
+                "name": "LPU",
+                "nameShort": "LPU",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 3569,
+                "votePercent": 0.01
+              },
+              "position": 19,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23627,
+              "elected": false,
+              "name": "Huber, Blake",
+              "name2": "Blake Huber",
+              "firstName": "Blake",
+              "lastName": "Huber",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Huber, Blake",
+              "notes": null,
+              "party": {
+                "name": "AVP",
+                "nameShort": "AVP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 3218,
+                "votePercent": 0.0
+              },
+              "position": 20,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23631,
+              "elected": false,
+              "name": "Wood, Michael",
+              "name2": "Michael Wood",
+              "firstName": "Michael",
+              "lastName": "Wood",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Wood, Michael",
+              "notes": null,
+              "party": {
+                "name": "PRO",
+                "nameShort": "PRO",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 1538,
+                "votePercent": 0.0
+              },
+              "position": 21,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23633,
+              "elected": false,
+              "name": "Total Write-ins",
+              "name2": "Total Write-ins",
+              "firstName": "",
+              "lastName": "Total Write-ins",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Total Write-ins",
+              "notes": null,
+              "party": {
+                "name": "OTH",
+                "nameShort": "OTH",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 1403,
+                "votePercent": 0.0
+              },
+              "position": 22,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23635,
+              "elected": false,
+              "name": "Stodden, William",
+              "name2": "William Stodden",
+              "firstName": "William",
+              "lastName": "Stodden",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Stodden, William",
+              "notes": null,
+              "party": {
+                "name": "SPU",
+                "nameShort": "SPU",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 1382,
+                "votePercent": 0.0
+              },
+              "position": 23,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23629,
+              "elected": false,
+              "name": "Supreme, Vermin",
+              "name2": "Vermin Supreme",
+              "firstName": "Vermin",
+              "lastName": "Supreme",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Supreme, Vermin",
+              "notes": null,
+              "party": {
+                "name": "Conservative",
+                "nameShort": "CON",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 1374,
+                "votePercent": 0.0
+              },
+              "position": 24,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23637,
+              "elected": false,
+              "name": "Wells, Robert",
+              "name2": "Robert Wells",
+              "firstName": "Robert",
+              "lastName": "Wells",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Wells, Robert",
+              "notes": null,
+              "party": {
+                "name": "Independent",
+                "nameShort": "IND",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 562,
+                "votePercent": 0.0
+              },
+              "position": 25,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23639,
+              "elected": false,
+              "name": "Preston, Mattie",
+              "name2": "Mattie Preston",
+              "firstName": "Mattie",
+              "lastName": "Preston",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/President/Preston, Mattie",
+              "notes": null,
+              "party": {
+                "name": "OTH",
+                "nameShort": "OTH",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 326,
+                "votePercent": 0.0
+              },
+              "position": 26,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            }
+          ]
+        },
+        {
+          "id": 9436,
+          "office": {
+            "id": 463,
+            "name": "Electoral College",
+            "nameShort": "Electoral College",
+            "notes": null,
+            "modifiedDate": "2024-10-21T13:06:34-04:00"
+          },
+          "area": {
+            "id": 222,
+            "name": "United States",
+            "nameShort": "US",
+            "notes": null,
+            "code": null,
+            "modifiedDate": "2024-10-29T14:28:35-04:00"
+          },
+          "contestType": "Electoral College",
+          "notes": null,
+          "positions": 1,
+          "polls": {
+            "total": 174267,
+            "reported": 77056,
+            "reportedPercent": "44.22",
+            "closingTime": null,
+            "isClosed": null
+          },
+          "runoffEligible": false,
+          "isRunoff": false,
+          "dbVotesPercent": "0",
+          "dbVotesPercentPrevious": "",
+          "sortType": "",
+          "modifiedDate": "2024-11-01T11:24:56-04:00",
+          "choice": [
+            {
+              "id": 23590,
+              "elected": false,
+              "name": "Harris, Kamala",
+              "name2": "Kamala Harris",
+              "firstName": "Kamala",
+              "lastName": "Harris",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 1333,
+                  "name": "HARRIS_Kamala",
+                  "localUrl": "http://localhost/tickit/blade/media/1333.jpg",
+                  "fileName": "HARRIS_Kamala.jpg",
+                  "extension": "jpg",
+                  "length": 650660,
+                  "height": 2400,
+                  "width": 2400,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/jpeg",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-10-18T10:49:39-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Harris, Kamala",
+              "notes": null,
+              "party": {
+                "name": "DEMOCRAT",
+                "nameShort": "DEM",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#1334A4",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-08-20T16:10:25-04:00"
+              },
+              "votes": {
+                "total": 101,
+                "votePercent": 60.84
+              },
+              "position": 1,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23592,
+              "elected": false,
+              "name": "Trump, Donald",
+              "name2": "Donald Trump",
+              "firstName": "Donald",
+              "lastName": "Trump",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 2825,
+                  "name": "TRUMP_Donald",
+                  "localUrl": "http://localhost/tickit/blade/media/2825.png",
+                  "fileName": "TRUMP_Donald.png",
+                  "extension": "png",
+                  "length": 384961,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": "",
+                  "savedPath": "",
+                  "caption": null,
+                  "keywords": null,
+                  "modifiedDate": "2024-10-25T17:20:14-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": null,
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Trump, Donald",
+              "notes": null,
+              "party": {
+                "name": "Republican",
+                "nameShort": "GOP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C00000",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-06T21:48:50-05:00"
+              },
+              "votes": {
+                "total": 65,
+                "votePercent": 39.16
+              },
+              "position": 2,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23606,
+              "elected": false,
+              "name": "Ayyadurai, Shiva",
+              "name2": "Shiva Ayyadurai",
+              "firstName": "Shiva",
+              "lastName": "Ayyadurai",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Ayyadurai, Shiva",
+              "notes": null,
+              "party": {
+                "name": "No Party Affiliation",
+                "nameShort": "NPA",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#33CC33",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-21T14:35:15-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 3,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23614,
+              "elected": false,
+              "name": "Bowman, Jay",
+              "name2": "Jay Bowman",
+              "firstName": "Jay",
+              "lastName": "Bowman",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Bowman, Jay",
+              "notes": null,
+              "party": {
+                "name": "Independent",
+                "nameShort": "IND",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 4,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23600,
+              "elected": false,
+              "name": "De la Cruz, Claudia",
+              "name2": "Claudia De la Cruz",
+              "firstName": "Claudia",
+              "lastName": "De la Cruz",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 2832,
+                  "name": "DE-LA-CRUZ_Claudia",
+                  "localUrl": "http://localhost/tickit/blade/media/2832.png",
+                  "fileName": "DE-LA-CRUZ_Claudia.png",
+                  "extension": "png",
+                  "length": 429953,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": "",
+                  "savedPath": "",
+                  "caption": null,
+                  "keywords": null,
+                  "modifiedDate": "2024-10-25T17:24:23-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": null,
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/Electoral College/De la Cruz, Claudia",
+              "notes": null,
+              "party": {
+                "name": "PSL",
+                "nameShort": "PSL",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-21T13:06:34-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 5,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23608,
+              "elected": false,
+              "name": "Duncan, Richard",
+              "name2": "Richard Duncan",
+              "firstName": "Richard",
+              "lastName": "Duncan",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Duncan, Richard",
+              "notes": null,
+              "party": {
+                "name": "No Party Affiliation",
+                "nameShort": "NPA",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#33CC33",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-21T14:35:15-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 6,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23622,
+              "elected": false,
+              "name": "Ebke, Laura",
+              "name2": "Laura Ebke",
+              "firstName": "Laura",
+              "lastName": "Ebke",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Ebke, Laura",
+              "notes": null,
+              "party": {
+                "name": "LPU",
+                "nameShort": "LPU",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 7,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23620,
+              "elected": false,
+              "name": "Everylove, Lucifer",
+              "name2": "Lucifer Everylove",
+              "firstName": "Lucifer",
+              "lastName": "Everylove",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Everylove, Lucifer",
+              "notes": null,
+              "party": {
+                "name": "Unaffiliated",
+                "nameShort": "UNA",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 8,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23612,
+              "elected": false,
+              "name": "Fruit, Rachele",
+              "name2": "Rachele Fruit",
+              "firstName": "Rachele",
+              "lastName": "Fruit",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Fruit, Rachele",
+              "notes": null,
+              "party": {
+                "name": "SWP",
+                "nameShort": "SWP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 9,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23624,
+              "elected": false,
+              "name": "Garrity, Chris",
+              "name2": "Chris Garrity",
+              "firstName": "Chris",
+              "lastName": "Garrity",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Garrity, Chris",
+              "notes": null,
+              "party": {
+                "name": "Independent",
+                "nameShort": "IND",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 10,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23628,
+              "elected": false,
+              "name": "Huber, Blake",
+              "name2": "Blake Huber",
+              "firstName": "Blake",
+              "lastName": "Huber",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Huber, Blake",
+              "notes": null,
+              "party": {
+                "name": "AVP",
+                "nameShort": "AVP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 11,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23598,
+              "elected": false,
+              "name": "Kennedy, Robert",
+              "name2": "Robert Kennedy",
+              "firstName": "Robert",
+              "lastName": "Kennedy",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Kennedy, Robert",
+              "notes": null,
+              "party": {
+                "name": "Petitioning Candidate",
+                "nameShort": "PEC",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 12,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23616,
+              "elected": false,
+              "name": "Kishore, Joseph",
+              "name2": "Joseph Kishore",
+              "firstName": "Joseph",
+              "lastName": "Kishore",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Kishore, Joseph",
+              "notes": null,
+              "party": {
+                "name": "No Party Affiliation",
+                "nameShort": "NPA",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#33CC33",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-21T14:35:15-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 13,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23626,
+              "elected": false,
+              "name": "None of These Candidates",
+              "name2": "None of These Candidates",
+              "firstName": "",
+              "lastName": "None of These Candidates",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/None of These Candidates",
+              "notes": null,
+              "party": {
+                "name": "No Party Designation",
+                "nameShort": "NPD",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 14,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23594,
+              "elected": false,
+              "name": "Oliver, Chase",
+              "name2": "Chase Oliver",
+              "firstName": "Chase",
+              "lastName": "Oliver",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 633,
+                  "name": "OLIVER_Chase",
+                  "localUrl": "http://localhost/tickit/blade/media/633.jpeg",
+                  "fileName": "OLIVER_Chase.jpeg",
+                  "extension": "jpeg",
+                  "length": 59434,
+                  "height": 558,
+                  "width": 558,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/jpeg",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-10-18T10:48:09-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Oliver, Chase",
+              "notes": null,
+              "party": {
+                "name": "Libertarian",
+                "nameShort": "LIB",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 15,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23640,
+              "elected": false,
+              "name": "Preston, Mattie",
+              "name2": "Mattie Preston",
+              "firstName": "Mattie",
+              "lastName": "Preston",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Preston, Mattie",
+              "notes": null,
+              "party": {
+                "name": "OTH",
+                "nameShort": "OTH",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 16,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23618,
+              "elected": false,
+              "name": "Skousen, Joel",
+              "name2": "Joel Skousen",
+              "firstName": "Joel",
+              "lastName": "Skousen",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Skousen, Joel",
+              "notes": null,
+              "party": {
+                "name": "Constitution",
+                "nameShort": "CST",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 17,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23610,
+              "elected": false,
+              "name": "Sonski, Peter",
+              "name2": "Peter Sonski",
+              "firstName": "Peter",
+              "lastName": "Sonski",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 1995,
+                  "name": "SONSKI_Peter",
+                  "localUrl": "http://localhost/tickit/blade/media/1995.jpg",
+                  "fileName": "SONSKI_Peter.jpg",
+                  "extension": "jpg",
+                  "length": 118889,
+                  "height": 750,
+                  "width": 750,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/jpeg",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-10-18T10:51:03-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Sonski, Peter",
+              "notes": null,
+              "party": {
+                "name": "ASP",
+                "nameShort": "ASP",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-21T13:06:34-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 18,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23596,
+              "elected": false,
+              "name": "Stein, Jill",
+              "name2": "Jill Stein",
+              "firstName": "Jill",
+              "lastName": "Stein",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 2795,
+                  "name": "STEIN_Jill",
+                  "localUrl": "http://localhost/tickit/blade/media/2795.jpeg",
+                  "fileName": "STEIN_Jill.jpeg",
+                  "extension": "jpeg",
+                  "length": 43262,
+                  "height": 480,
+                  "width": 480,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/jpeg",
+                  "url": null,
+                  "savedPath": null,
+                  "caption": "",
+                  "keywords": "",
+                  "modifiedDate": "2024-10-22T12:53:23-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": "disposable",
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Stein, Jill",
+              "notes": null,
+              "party": {
+                "name": "Green",
+                "nameShort": "GRN",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 19,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23636,
+              "elected": false,
+              "name": "Stodden, William",
+              "name2": "William Stodden",
+              "firstName": "William",
+              "lastName": "Stodden",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Stodden, William",
+              "notes": null,
+              "party": {
+                "name": "SPU",
+                "nameShort": "SPU",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 20,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23630,
+              "elected": false,
+              "name": "Supreme, Vermin",
+              "name2": "Vermin Supreme",
+              "firstName": "Vermin",
+              "lastName": "Supreme",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Supreme, Vermin",
+              "notes": null,
+              "party": {
+                "name": "Conservative",
+                "nameShort": "CON",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 21,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23604,
+              "elected": false,
+              "name": "Terry, Randall",
+              "name2": "Randall Terry",
+              "firstName": "Randall",
+              "lastName": "Terry",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": {
+                  "id": 2824,
+                  "name": "TERRY_Randall",
+                  "localUrl": "http://localhost/tickit/blade/media/2824.png",
+                  "fileName": "TERRY_Randall.png",
+                  "extension": "png",
+                  "length": 263429,
+                  "height": 500,
+                  "width": 500,
+                  "duration": null,
+                  "loop": false,
+                  "mimeType": "image/png",
+                  "url": "",
+                  "savedPath": "",
+                  "caption": null,
+                  "keywords": null,
+                  "modifiedDate": "2024-10-25T17:19:55-04:00",
+                  "datafeedId": null,
+                  "datafeedChar": "",
+                  "source": null,
+                  "alpha": false
+                }
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Terry, Randall",
+              "notes": null,
+              "party": {
+                "name": "Constitution",
+                "nameShort": "CST",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 22,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23634,
+              "elected": false,
+              "name": "Total Write-ins",
+              "name2": "Total Write-ins",
+              "firstName": "",
+              "lastName": "Total Write-ins",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Total Write-ins",
+              "notes": null,
+              "party": {
+                "name": "OTH",
+                "nameShort": "OTH",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 23,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23638,
+              "elected": false,
+              "name": "Wells, Robert",
+              "name2": "Robert Wells",
+              "firstName": "Robert",
+              "lastName": "Wells",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Wells, Robert",
+              "notes": null,
+              "party": {
+                "name": "Independent",
+                "nameShort": "IND",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-03-14T15:10:24-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 24,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23602,
+              "elected": false,
+              "name": "West, Cornel",
+              "name2": "Cornel West",
+              "firstName": "Cornel",
+              "lastName": "West",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/West, Cornel",
+              "notes": null,
+              "party": {
+                "name": "AUR",
+                "nameShort": "AUR",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 25,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            },
+            {
+              "id": 23632,
+              "elected": false,
+              "name": "Wood, Michael",
+              "name2": "Michael Wood",
+              "firstName": "Michael",
+              "lastName": "Wood",
+              "incumbent": false,
+              "acclaimed": false,
+              "headShot": {
+                "media": null
+              },
+              "path": "2024 Presidental National/United States/Electoral College/Wood, Michael",
+              "notes": null,
+              "party": {
+                "name": "PRO",
+                "nameShort": "PRO",
+                "nameAlt": null,
+                "notes": null,
+                "main": false,
+                "color": "#C0C0C0",
+                "logo": {
+                  "media": null
+                },
+                "modifiedDate": "2024-10-29T14:28:35-04:00"
+              },
+              "votes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "position": 26,
+              "previousVotes": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "votes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "previousVotes2": {
+                "total": 0,
+                "votePercent": 0.0
+              },
+              "dbVotesPercent": 0.0,
+              "dbVotesPercentPrevious": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  }

@@ -134,8 +134,14 @@ var CONFIG = {
                 title: 'Presidential Election 2024'
             }, 
             {
-                electionEvent: 'Presidential Results',
+                electionEvent: 'Presidential Results - Florida',
                 fileName: 'presidential_results.json', 
+                entry: 'ElectionEvent', 
+                title: 'Presidential Election 2024'
+            }, 
+            {
+                electionEvent: 'Presidential Results - National',
+                fileName: 'presidential_national.json', 
                 entry: 'ElectionEvent', 
                 title: 'Presidential Election 2024'
             }
